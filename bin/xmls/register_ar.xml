@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<countries language="en" default="ﺔﻣﺎﻗﻹﺍ ﺪﻠﺑ">
+		<country code="	fm" name="ﻭﺮﻜﻴﻣ ﻝﻭﺩ ﺩﺎﺤﺗﺍ" />
+		<country code="	tf" name="ﺔﻴﺴﻧﺮﻔﻟﺍ ﺔﻴﺑﻮﻨﺠﻟﺍ ﺔﻴﺒﻄﻘﻟﺍﻭ ﺔﻴﺑﻮﻨﺠﻟﺍ ﻲﺿﺍﺭﻷﺍ" />
+		<country code="	ps" name="ﺔﻠﺘﺤﻤﻟﺍ ﻲﺿﺍﺭﻷﺍﻭ ﺔﻴﻨﻴﻄﺴﻠﻔﻟﺍ ﻲﺿﺍﺭﻷﺍ" />
+		<country code="	ar" name="ﻦﻴﺘﻨﺟﺭﻷﺍ" />
+		<country code="	jo" name="ﻥﺩﺭﻷﺍ" />
+		<country code="	ec" name="ﺭﻭﺩﺍﻮﻛﻹﺍ" />
+		<country code="	ae" name="ﺓﺪﺤﺘﻤﻟﺍ ﺔﻴﺑﺮﻌﻟﺍ ﺕﺍﺭﺎﻣﻹﺍ" />
+		<country code="	py" name="ﻱﺍﻮﻏﺍﺭﺎﺒﻟﺍ" />
+		<country code="	bh" name="ﻦﻳﺮﺤﺒﻟﺍ" />
+		<country code="	br" name="ﻞﻳﺯﺍﺮﺒﻟﺍ" />
+		<country code="	pt" name="ﻝﺎﻐﺗﺮﺒﻟﺍ" />
+		<country code="	ba" name="ﻚﺳﺮﻬﻟﺍﻭ ﺔﻨﺳﻮﺒﻟﺍ" />
+		<country code="	pe" name="ﻭﺮﻴﺒﻟﺍ" />
+		<country code="	dz" name="ﺮﺋﺍﺰﺠﻟﺍ" />
+		<country code="	um" name="ﺓﺪﺤﺘﻤﻟﺍ ﺕﺎﻳﻻﻮﻠﻟ ﺔﻌﺑﺎﺘﻟﺍ ﺔﻴﺋﺎﻨﻟﺍ ﺓﺮﻴﻐﺼﻟﺍ ﺭﺰﺠﻟﺍ" />
+		<country code="	vg" name="ﺔﻴﻧﺎﻄﻳﺮﺒﻟﺍ ءﺍﺭﺬﻌﻟﺍ ﺭﺰﺠﻟﺍ" />
+		<country code="	vi" name="ﺓﺪﺤﺘﻤﻟﺍ ﺕﺎﻳﻻﻮﻟﺍ ،ءﺍﺭﺬﻌﻟﺍ ﺭﺰﺠﻟﺍ" />
+		<country code="	ly" name="ﺔﻴﺒﻴﻠﻟﺍ ﺔﻴﺑﺮﻌﻟﺍ ﺔﻳﺮﻴﻫﺎﻤﺠﻟﺍ" />
+		<country code="	sy" name="ﺔﻳﺭﻮﺴﻟﺍ ﺔﻴﺑﺮﻌﻟﺍ ﺔﻳﺭﻮﻬﻤﺠﻟﺍ" />
+		<country code="	dk" name="ﻙﺭﺎﻤﻧﺍﺪﻟﺍ" />
+		<country code="	cv" name="ﺮﻀﺧﻷﺍ ﺱﺃﺮﻟﺍ" />
+		<country code="	sv" name="ﺭﻭﺩﺎﻔﻠﺴﻟﺍ" />
+		<country code="	sn" name="ﻝﺎﻐﻨﺴﻟﺍ" />
+		<country code="	sd" name="ﻥﺍﺩﻮﺴﻟﺍ" />
+		<country code="	se" name="ﺪﻳﻮﺴﻟﺍ" />
+		<country code="	eh" name="ﺔﻴﺑﺮﻐﻟﺍ ءﺍﺮﺤﺼﻟﺍ" />
+		<country code="	so" name="ﻝﺎﻣﻮﺼﻟﺍ" />
+		<country code="	cn" name="ﻦﻴﺼﻟﺍ" />
+		<country code="	iq" name="ﻕﺍﺮﻌﻟﺍ" />
+		<country code="	ga" name="ﻥﻮﺑﺎﻐﻟﺍ" />
+		<country code="	ph" name="ﻦﻴﺒﻠﻔﻟﺍ" />
+		<country code="	aq" name="ﺔﻴﺑﻮﻨﺠﻟﺍ ﺔﻴﺒﻄﻘﻟﺍ ﺓﺭﺎﻘﻟﺍ" />
+		<country code="	cm" name="ﻥﻭﺮﻴﻣﺎﻜﻟﺍ" />
+		<country code="	kw" name="ﺖﻳﻮﻜﻟﺍ" />
+		<country code="	hu" name="ﺮﺠﻤﻟﺍ" />
+		<country code="	ma" name="ﺏﺮﻐﻤﻟﺍ" />
+		<country code="	mx" name="ﻚﻴﺴﻜﻤﻟﺍ" />
+		<country code="	sa" name="ﺔﻳﺩﻮﻌﺴﻟﺍ ﺔﻴﺑﺮﻌﻟﺍ ﺔﻜﻠﻤﻤﻟﺍ" />
+		<country code="	gb" name="ﺓﺪﺤﺘﻤﻟﺍ ﺔﻜﻠﻤﻤﻟﺍ" />
+		<country code="	np" name="ﻝﺎﻴﺒﻨﻟﺍ" />
+		<country code="	no" name="ﺝﻭﺮﻨﻟﺍ" />
+		<country code="	at" name="ﺎﺴﻤﻨﻟﺍ" />
+		<country code="	ne" name="ﺮﺠﻴﻨﻟﺍ" />
+		<country code="	in" name="ﺪﻨﻬﻟﺍ" />
+		<country code="	us" name="ﺓﺪﺤﺘﻤﻟﺍ ﺕﺎﻳﻻﻮﻟﺍ" />
+		<country code="	jp" name="ﻥﺎﺑﺎﻴﻟﺍ" />
+		<country code="	ye" name="ﻦﻤﻴﻟﺍ" />
+		<country code="	gr" name="ﻥﺎﻧﻮﻴﻟﺍ" />
+		<country code="	aw" name="ﺎﺑﻭﺭﺁ" />
+		<country code="	az" name="ﻥﺎﺠﻴﺑﺭﺫﺃ" />
+		<country code="	io" name="ﺔﻴﻧﺎﻄﻳﺮﺒﻟﺍ ﻱﺪﻨﻬﻟﺍ ﻂﻴﺤﻤﻟﺍ ﻲﺿﺍﺭﺃ" />
+		<country code="	am" name="ﺎﻴﻨﻴﻣﺭﺃ" />
+		<country code="	au" name="ﺎﻴﻟﺍﺮﺘﺳﺃ" />
+		<country code="	af" name="ﻥﺎﺘﺴﻧﺎﻐﻓﺃ" />
+		<country code="	al" name="ﺎﻴﻧﺎﺒﻟﺃ" />
+		<country code="	de" name="ﺎﻴﻧﺎﻤﻟﺃ" />
+		<country code="	ag" name="ﺍﺩﻮﺑﺭﺎﺑﻭ ﺍﻮﻐﻴﺘﻧﺃ" />
+		<country code="	ad" name="ﺍﺭﻭﺪﻧﺃ" />
+		<country code="	ao" name="ﻻﻮﻐﻧﺃ" />
+		<country code="	ai" name="ﻼﻳﻮﻐﻧﺃ" />
+		<country code="	uy" name="ﻱﺍﻮﻏﻭﺭﻭﺃ" />
+		<country code="	uz" name="ﻥﺎﺘﺴﻜﺑﺯﻭﺃ" />
+		<country code="	ug" name="ﺍﺪﻨﻏﻭﺃ" />
+		<country code="	ua" name="ﺎﻴﻧﺍﺮﻛﻭﺃ" />
+		<country code="	ie" name="ﺍﺪﻨﻟﺮﻳﺃ" />
+		<country code="	is" name="ﺍﺪﻨﻠﺴﻳﺃ" />
+		<country code="	et" name="ﺎﻴﺑﻮﻴﺛﺇ" />
+		<country code="	er" name="ﺎﻳﺮﺘﻳﺭﺇ" />
+		<country code="	es" name="ﺎﻴﻧﺎﺒﺳﺇ" />
+		<country code="	ee" name="ﺎﻴﻧﻮﺘﺳﺇ" />
+		<country code="	il" name="ﻞﻴﺋﺍﺮﺳﺇ" />
+		<country code="	id" name="ﺎﻴﺴﻴﻧﻭﺪﻧﺇ" />
+		<country code="	it" name="ﺎﻴﻟﺎﻄﻳﺇ" />
+		<country code="	pg" name="ﺓﺪﻳﺪﺠﻟﺍ ﺎﻴﻨﻴﻏ ﺍﻮﺑﺎﺑ" />
+		<country code="	bb" name="ﺱﻭﺩﺎﺑﺭﺎﺑ" />
+		<country code="	pk" name="ﻥﺎﺘﺴﻛﺎﺑ" />
+		<country code="	pw" name="ﻭﻻﺎﺑ" />
+		<country code="	bm" name="ﺍﺩﻮﻣﺮﺑ" />
+		<country code="	bn" name="ﻡﻼﺴﻟﺍ ﺭﺍﺩ ﻱﺎﻧﻭﺮﺑ" />
+		<country code="	be" name="ﺎﻜﻴﺠﻠﺑ" />
+		<country code="	bg" name="ﺎﻳﺭﺎﻐﻠﺑ" />
+		<country code="	bd" name="ﺵﺩﻼﻐﻨﺑ" />
+		<country code="	pa" name="ﺎﻤﻨﺑ" />
+		<country code="	bj" name="ﻦﻴﻨﺑ" />
+		<country code="	bt" name="ﻥﺎﺗﻮﺑ" />
+		<country code="	bw" name="ﺎﻧﺍﻮﺴﺗﻮﺑ" />
+		<country code="	pr" name="ﻮﻜﻳﺭﻮﺗﺭﻮﺑ" />
+		<country code="	bf" name="ﻮﺳﺎﻓ ﺎﻨﻴﻛﺭﻮﺑ" />
+		<country code="	bi" name="ﺎﻣﺭﻮﺑ" />
+		<country code="	pl" name="ﺍﺪﻨﻟﻮﺑ" />
+		<country code="	bo" name="ﺎﻴﻔﻴﻟﻮﺑ" />
+		<country code="	pf" name="ﺔﻴﺴﻧﺮﻔﻟﺍ ﺎﻳﺰﻴﻨﻴﻟﻮﺑ" />
+		<country code="	by" name="ﺎﻴﺳﻭﺭﻼﻴﺑ" />
+		<country code="	bz" name="ﺰﻴﻠﻴﺑ" />
+		<country code="	th" name="ﺪﻧﻼﻳﺎﺗ" />
+		<country code="	tw" name="ﻥﺍﻮﻳﺎﺗ" />
+		<country code="	tm" name="ﻥﺎﺘﺴﻧﺎﻤﻛﺮﺗ" />
+		<country code="	tr" name="ﺎﻴﻛﺮﺗ" />
+		<country code="	td" name="ﺩﺎﺸﺗ" />
+		<country code="	cl" name="ﻲﻠﻴﺸﺗ" />
+		<country code="	tg" name="ﻮﻏﻮﺗ" />
+		<country code="	tv" name="ﻮﻟﺎﻓﻮﺗ" />
+		<country code="	tk" name="ﻭﻼﻴﻛﻮﺗ" />
+		<country code="	tn" name="ﺲﻧﻮﺗ" />
+		<country code="	to" name="ﺎﻐﻧﻮﺗ" />
+		<country code="	tl" name="ﺔﻴﻗﺮﺸﻟﺍ ﺭﻮﻤﻴﺗ" />
+		<country code="	jm" name="ﺎﻜﻳﺎﻣﺎﺟ" />
+		<country code="	gi" name="ﻕﺭﺎﻃ ﻞﺒﺟ" />
+		<country code="	an" name="ﺔﻳﺪﻨﻟﻮﻬﻟﺍ ﻞﻴﺘﻧﻷﺍ ﺭﺰﺟ" />
+		<country code="	bs" name="ﺱﺎﻣﺎﻫﺎﺒﻟﺍ ﺭﺰﺟ" />
+		<country code="	re" name="ﻥﻮﻴﻧﻮﻳﺮﻟﺍ ﺭﺰﺟ" />
+		<country code="	sc" name="ﻞﻴﺸﻴﺴﻟﺍ ﺭﺰﺟ" />
+		<country code="	km" name="ﺮﻤﻘﻟﺍ ﺭﺰﺟ" />
+		<country code="	mv" name="ﻒﻳﺪﻟﺎﻤﻟﺍ ﺭﺰﺟ" />
+		<country code="	ax" name="ﺪﻧﻻﺁ ﺭﺰﺟ" />
+		<country code="	pn" name="ﻥﺮﻴﻜﺘﻴﺑ ﺭﺰﺟ" />
+		<country code="	tc" name="ﺱﻮﻜﻳﺎﻛﻭ ﺲﻛﺭﻮﺗ ﺭﺰﺟ" />
+		<country code="	gs" name="ﺔﻴﺑﻮﻨﺠﻟﺍ ﺶﺘﻳﻭﺪﻧﺎﺳ ﻭ ﺎﻴﺟﺭﻮﺟ" />
+		<country code="	as" name="ﺔﻴﻛﺮﻴﻣﻷﺍ ﺍﻮﻣﺎﺳ ﺭﺰﺟ" />
+		<country code="	sj" name="ﻦﻳﺎﻣ ﻥﺎﺟﻭ ﺩﺭﺎﺒﻟﺎﻔﺳ ﺭﺰﺟ" />
+		<country code="	sb" name="ﻥﺎﻤﻴﻠﺳ ﺭﺰﺟ" />
+		<country code="	fo" name="ﻭﺭﺎﻓ ﺭﺰﺟ" />
+		<country code="	fk" name="(ﻦﻳﻮﻟﺎﻤﻟﺍ ﺭﺰﺟ) ﺪﻧﻼﻛﻮﻓ ﺭﺰﺟ" />
+		<country code="	ky" name="ﻥﺎﻤﻳﺎﻛ ﺭﺰﺟ" />
+		<country code="	ck" name="ﻙﻮﻛ ﺭﺰﺟ" />
+		<country code="	cc" name="(ﻎﻨﻴﻠﻴﻛ) ﺱﻮﻛﻮﻛ ﺭﺰﺟ" />
+		<country code="	mh" name="ﻝﺎﺷﺭﺎﻣ ﺭﺰﺟ" />
+		<country code="	mp" name="ﺔﻴﻟﺎﻤﺸﻟﺍ ﺎﻧﺎﻳﺭﺎﻣ ﺭﺰﺟ" />
+		<country code="	bv" name="ﻪﻴﻓﻮﺑ ﺓﺮﻳﺰﺟ" />
+		<country code="	mf" name="(ﺔﻴﺴﻧﺮﻔﻟﺍ ءﺰﺠﻟﺍ) ﻦﺗﺭﺎﻣ ﺖﻧﺎﺳ ﺓﺮﻳﺰﺟ" />
+		<country code="	cx" name="ﺩﻼﻴﻤﻟﺍ ﺪﻴﻋ ﺓﺮﻳﺰﺟ" />
+		<country code="	im" name="ﻥﺎﻣ ﺓﺮﻳﺰﺟ" />
+		<country code="	nf" name="ﻚﻟﻮﻓﺭﻮﻧ ﺓﺮﻳﺰﺟ" />
+		<country code="	hm" name="ﺪﻟﺎﻧﻭﺪﻛﺎﻣ ﺭﺰﺟﻭ ﺩﺮﻴﻫ ﺓﺮﻳﺰﺟ" />
+		<country code="	cz" name="ﻚﻴﺸﺘﻟﺍ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	do" name="ﻥﺎﻜﻴﻨﻴﻣﻭﺪﻟﺍ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	cd" name="ﻮﻐﻧﻮﻜﻟﺍ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	cg" name="ﺔﻴﻃﺍﺮﻘﻤﻳﺪﻟﺍ ﻮﻐﻧﻮﻜﻟﺍ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	cf" name="ﻰﻄﺳﻮﻟﺍ ﺎﻴﻘﻳﺮﻓﺃ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	ir" name="ﺔﻴﻣﻼﺳﻹﺍ ﻥﺍﺮﻳﺇ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	tz" name="ﺓﺪﺤﺘﻤﻟﺍ ﺎﻴﻧﺍﺰﻨﺗ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	kr" name="ﺎﻳﺭﻮﻛ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	kp" name="ﺔﻴﺒﻌﺸﻟﺍ ﺔﻴﻃﺍﺮﻘﻤﻳﺪﻟﺍ ﺎﻳﺭﻮﻛ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	la" name="ﺔﻴﻃﺍﺮﻘﻤﻳﺪﻟﺍ ﻭﻻ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	mk" name="ﺔﻘﺑﺎﺴﻟﺍ ﺔﻴﻓﻼﺳﻮﻏﻮﻴﻟﺍ ﺎﻴﻧﻭﺪﻘﻣ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	md" name="ﺎﻴﻓﺍﺪﻟﻮﻣ ﺔﻳﺭﻮﻬﻤﺟ" />
+		<country code="	za" name="ﺎﻴﻘﻳﺮﻓﺃ ﺏﻮﻨﺟ" />
+		<country code="	ge" name="ﺎﻴﺟﺭﻮﺟ" />
+		<country code="	dj" name="ﻲﺗﻮﺒﻴﺟ" />
+		<country code="	je" name="ﻲﺳﺮﻴﺟ" />
+		<country code="	va" name="ﻥﺎﻜﻴﺗﺎﻔﻟﺍ ﺓﺮﺿﺎﺣ" />
+		<country code="	dm" name="ﺎﻜﻴﻨﻴﻣﻭﺩ" />
+		<country code="	rw" name="ﺍﺪﻧﺍﻭﺭ" />
+		<country code="	ru" name="ﺔﻳﺩﺎﺤﺗﻻﺍ ﺎﻴﺳﻭﺭ" />
+		<country code="	ro" name="ﺎﻴﻧﺎﻣﻭﺭ" />
+		<country code="	zm" name="ﺎﻴﺒﻣﺍﺯ" />
+		<country code="	zw" name="ﻱﺍﻮﺑﺎﺒﻤﻳﺯ" />
+		<country code="	ci" name="ﺝﺎﻌﻟﺍ ﻞﺣﺎﺳ" />
+		<country code="	ws" name="ﺍﻮﻣﺎﺳ" />
+		<country code="	pm" name="ﻥﻮﻴﻠﻜﻴﻣﻭ ﺮﻴﻴﺑ ﻥﺎﺳ" />
+		<country code="	sm" name="ﻮﻨﻳﺭﺎﻣ ﻥﺎﺳ" />
+		<country code="	bl" name="ﻲﻤﻴﻠﻴﺗﺭﺎﺑ ﺖﻧﺎﺳ" />
+		<country code="	vc" name="ﻦﻳﺩﺎﻨﻳﺮﻏﻭ ﺖﻨﺴﻨﻓ ﺖﻧﺎﺳ" />
+		<country code="	kn" name="ﺲﻴﻔﻴﻧﻭ ﺲﺘﻴﻛ ﺖﻧﺎﺳ" />
+		<country code="	lc" name="ﺎﻴﺸﺗﻮﻟ ﺖﻧﺎﺳ" />
+		<country code="	sh" name="ﺎﻨﻴﻠﻴﻫ ﺖﻧﺎﺳ" />
+		<country code="	st" name="ﻲﺒﻴﺴﻨﻳﺮﺑﻭ ﻲﻣﻮﺗ ﻭﺎﺳ" />
+		<country code="	lk" name="ﺎﻜﻧﻼﻳﺮﺳ" />
+		<country code="	sk" name="ﺎﻴﻛﺎﻓﻮﻠﺳ" />
+		<country code="	si" name="ﺎﻴﻨﻴﻓﻮﻠﺳ" />
+		<country code="	sg" name="ﺓﺭﻮﻓﺎﻐﻨﺳ" />
+		<country code="	sz" name="ﺪﻧﻼﻳﺯﺍﻮﺳ" />
+		<country code="	sr" name="ﻡﺎﻨﻳﺭﻮﺳ" />
+		<country code="	ch" name="ﺍﺮﺴﻳﻮﺳ" />
+		<country code="	sl" name="ﻥﻮﻴﻟﺍﺮﻴﺳ" />
+		<country code="	rs" name="ﺎﻴﺑﺮﺻ" />
+		<country code="	tj" name="ﻥﺎﺘﺴﻜﻴﺟﺎﻃ" />
+		<country code="	om" name="ﻥﺎﻤﻋ" />
+		<country code="	gm" name="ﺎﻴﺒﻣﺎﻏ" />
+		<country code="	gh" name="ﺎﻧﺎﻏ" />
+		<country code="	gd" name="ﺍﺩﺎﻨﻳﺮﻏ" />
+		<country code="	gl" name="ﺪﻧﻼﻨﻳﺮﻏ" />
+		<country code="	gt" name="ﻻﺎﻤﻴﺗﺍﻮﻏ" />
+		<country code="	gp" name="ﺏﻮﻟﺩﺍﻮﻏ" />
+		<country code="	gu" name="ﻡﺍﻮﻏ" />
+		<country code="	gy" name="ﺎﻧﺎﻳﻮﻏ" />
+		<country code="	gf" name="ﺔﻴﺴﻧﺮﻔﻟﺍ ﺎﻧﺎﻳﻮﻏ" />
+		<country code="	gg" name="ﻲﺴﻧﺮﻳﻮﻏ" />
+		<country code="	gn" name="ﺎﻴﻨﻴﻏ" />
+		<country code="	gw" name="ﻭﺎﺴﻴﺑ-ﺎﻴﻨﻴﻏ" />
+		<country code="	gq" name="ﺔﻴﺋﺍﻮﺘﺳﻻﺍ ﺎﻴﻨﻴﻏ" />
+		<country code="	vu" name="ﻮﺗﺍﻮﻧﺎﻓ" />
+		<country code="	fr" name="ﺎﺴﻧﺮﻓ" />
+		<country code="	ve" name="ﻼﻳﻭﺰﻨﻓ" />
+		<country code="	fi" name="ﺍﺪﻨﻠﻨﻓ" />
+		<country code="	vn" name="ﻡﺎﻨﺘﻴﻓ" />
+		<country code="	fj" name="ﻲﺠﻴﻓ" />
+		<country code="	cy" name="ﺹﺮﺒﻗ" />
+		<country code="	qa" name="ﺮﻄﻗ" />
+		<country code="	kg" name="ﻥﺎﺘﺳﺰﻏﺮﻴﻗ" />
+		<country code="	kz" name="ﻥﺎﺘﺴﺧﺍﺯﺎﻛ" />
+		<country code="	nc" name="ﺓﺪﻳﺪﺠﻟﺍ ﺎﻴﻧﻭﺪﻴﻟﺎﻛ" />
+		<country code="	hr" name="ﺎﻴﺗﺍﻭﺮﻛ" />
+		<country code="	kh" name="ﺎﻳﺩﻮﺒﻤﻛ" />
+		<country code="	ca" name="ﺍﺪﻨﻛ" />
+		<country code="	cu" name="ﺎﺑﻮﻛ" />
+		<country code="	cr" name="ﺎﻜﻳﺭﺎﺘﺳﻮﻛ" />
+		<country code="	co" name="ﺎﻴﺒﻣﻮﻟﻮﻛ" />
+		<country code="	ki" name="ﻲﺗﺎﺒﻳﺮﻴﻛ" />
+		<country code="	ke" name="ﺎﻴﻨﻴﻛ" />
+		<country code="	lv" name="ﺎﻴﻔﺗﻻ" />
+		<country code="	lb" name="ﻥﺎﻨﺒﻟ" />
+		<country code="	lu" name="ﻍﺭﻮﺒﻤﺴﻛﻮﻟ" />
+		<country code="	lr" name="ﺎﻳﺮﻴﺒﻴﻟ" />
+		<country code="	lt" name="ﺎﻴﻧﺍﻮﺘﻴﻟ" />
+		<country code="	li" name="ﻦﻳﺎﺘﺸﻨﺘﺨﻴﻟ" />
+		<country code="	ls" name="ﻮﺗﻮﺴﻴﻟ" />
+		<country code="	mq" name="ﻚﻴﻨﻴﺗﺭﺎﻣ" />
+		<country code="	mo" name="ﻭﺎﻛﺎﻣ" />
+		<country code="	mw" name="ﻱﻭﻻﺎﻣ" />
+		<country code="	mt" name="ﺎﻄﻟﺎﻣ" />
+		<country code="	ml" name="ﻲﻟﺎﻣ" />
+		<country code="	my" name="ﺎﻳﺰﻴﻟﺎﻣ" />
+		<country code="	yt" name="ﺕﻮﻳﺎﻣ" />
+		<country code="	mg" name="ﺮﻘﺸﻏﺪﻣ" />
+		<country code="	eg" name="ﺮﺼﻣ" />
+		<country code="	mr" name="ﺎﻴﻧﺎﺘﻳﺭﻮﻣ" />
+		<country code="	mu" name="ﺱﻮﻴﺸﻳﺭﻮﻣ" />
+		<country code="	mz" name="ﻖﻴﺒﻣﺍﺯﻮﻣ" />
+		<country code="	mc" name="ﻮﻛﺎﻧﻮﻣ" />
+		<country code="	ms" name="ﺕﺍﺮﻴﺴﺘﻧﻮﻣ" />
+		<country code="	me" name="ﻭﺮﻐﻴﻨﻴﺘﻧﻮﻣ" />
+		<country code="	mn" name="ﺎﻴﻟﻮﻐﻧﻮﻣ" />
+		<country code="	mm" name="ﺭﺎﻤﻧﺎﻴﻣ" />
+		<country code="	na" name="ﺎﻴﺒﻴﻣﺎﻧ" />
+		<country code="	nr" name="ﻭﺭﻭﺎﻧ" />
+		<country code="	tt" name="ﻮﻏﺎﺑﻮﺗﻭ ﺩﺍﺪﻴﻨﻳﺮﻧ" />
+		<country code="	ng" name="ﺎﻳﺮﻴﺠﻴﻧ" />
+		<country code="	ni" name="ﺍﻮﻏﺍﺭﺎﻜﻴﻧ" />
+		<country code="	nz" name="ﺍﺪﻨﻠﻳﺯﻮﻴﻧ" />
+		<country code="	nu" name="ﻱﻮﻴﻧ" />
+		<country code="	ht" name="ﻲﺘﻳﺎﻫ" />
+		<country code="	hn" name="ﺱﺍﺭﻭﺪﻨﻫ" />
+		<country code="	nl" name="ﺍﺪﻨﻟﻮﻫ" />
+		<country code="	hk" name="ﺞﻧﻮﻛ ﺞﻧﻮﻫ" />
+		<country code="	wf" name="ﺎﻧﻮﺗﻮﻓﻭ ﺲﻴﻟﺍﻭ" />
+	</countries>
+
+	<titleList language="en" default="ﺐﻘﻠﻟﺍ">
+	  <item name="ﺪﻴﺴﻟﺍ">ﺪﻴﺴﻟﺍ</item>
+	  <item name="ﺓﺪﻴﺴﻟﺍ">ﺓﺪﻴﺴﻟﺍ</item> 
+	  <item name="ﺔﺴﻧﻵﺍ">ﺔﺴﻧﻵﺍ</item> 
+	  <item name="ﻥﻭﺮﺧﺁ">ﻥﻭﺮﺧﺁ</item> 
+	</titleList>
+	
+	
+	<title><![CDATA[ﻙﺍﺮﺘﺷﻻﺍ]]></title>
+	<copy><![CDATA[ﻝﻮﺣ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻒﺸﺘﻜﻳ ﻦﻣ ﻝﻭﺃ ﻥﻮﻜﺘﻟ Vertu ﻙﻮﻋﺪﺗ<br>ﺽﻭﺮﻌﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ﺓﺪﻳﺪﺠﻟﺍ Constellation Quest ﺔﻋﻮﻤﺠﻣ<br>ﺓﺭﺎﺘﺨﻤﻟﺍ ﺎﻬﺗﺎﻣﺪﺧﻭ Vertu ﻒﺗﺍﻮﻫ ﻦﻋ ﻼﻀﻓ ﺔﺻﺎﺧ ﺕﻼﺤﻤﻟ ﻰﻟﻭﻷﺍ<br>.ﻯﺮﺧﻷﺍ]]></copy>
+	<firstname><![CDATA[ﻝﻭﻷﺍ ﻢﺳﻻﺍ]]></firstname>
+	<lastname><![CDATA[ﺔﻠﺋﺎﻌﻟﺍ ﻢﺳﺍ]]></lastname>
+	<email><![CDATA[ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﺪﻳﺮﺒﻟﺍ ﻥﺍﻮﻨﻋ]]></email>
+	<confirmemail><![CDATA[ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﺪﻳﺮﺒﻟﺍ ﻥﺍﻮﻨﻋ ﺪﻛﺃ]]></confirmemail>
+	<privacy><![CDATA[<span class="ar_copy">ﻚﻧﺃ ﻲﻨﻌﻳ "ﻞﺳﺭﺃ" ﻰﻠﻋ ﺮﻘﻨﻟﺍ<br>ﺔﻴﺻﻮﺼﺨﻟﺍ ﺔﺳﺎﻴﺳ ﻰﻠﻋ ﻖﻓﺍﻮﺗ<br>ﻚﻨﻜﻤﻳ ﻲﺘﻟﺍﻭ ﺎﻫﺪﻤﺘﻌﻧ ﻲﺘﻟﺍ<br>.<a href="http://www.vertu.com/in-en/#in-en_legal-notices/privacy-policy" class="underline_link" target="_blank">ﺎﻨﻫ</a> ﺎﻬﻴﻠﻋ ﻉﻼﻃﻻﺍ</span>]]></privacy>
+	<thankyoutitle><![CDATA[.ﺓﺪﻳﺪﺠﻟﺍ Constellation Quest ﺔﻋﻮﻤﺠﻤﺑ ﻚﻣﺎﻤﺘﻫﺍ ﻞﻴﺠﺴﺘﻟ ﺍﺮﻜﺷ<br><br>.Vertu ﻦﻣ ﺔﻳﺮﺼﺤﻟﺍ ﺭﺎﺒﺧﻷﺍ ﻰﻘﻠﺘﻴﺳ ﻦﻣ ﻝﻭﺃ ﻥﻮﻜﺗ ﻥﺄﺑ ﺐﻗﺮﺘﻟﺍ ﻥﻵﺍ ﻚﻨﻜﻤﻳ]]></thankyoutitle>
+	
+	<submit><![CDATA[<span class="ar_copy">ﻞﺳﺭﺃ</span>]]></submit>
+	<errorinvalidemail><![CDATA[!ﻞﻃﺎﺑ ﻲﻧﻭﺮﺘﻜﻟﺇ ﺪﻳﺮﺑ ﻥﺍﻮﻨﻋ]]></errorinvalidemail>
+	<erroremailnomatch><![CDATA[!ﻞﻃﺎﺑ ﻲﻧﻭﺮﺘﻜﻟﺇ ﺪﻳﺮﺑ ﻥﺍﻮﻨﻋ]]></erroremailnomatch>
+	<errorfillallfields><![CDATA[!ﺕﺎﻧﺎﺨﻟﺍ ﻞﻛ ءﻞﻣ ﻰﺟﺮﻳ]]></errorfillallfields>
+</language>

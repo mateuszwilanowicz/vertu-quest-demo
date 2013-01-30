@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<!-- modules -->
+	<categories>
+		<categorie id="category0">
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[DESIGN]]></title>
+				<name><![CDATA[DESIGN]]></name>
+				<image path="design_lp.jpg"  />
+				<copy><![CDATA[Le Constellation Quest a une élégance discrète et un style raffiné qui suggèrent la confiance en soi. ]]></copy>
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[DESIGN INNOVANT]]></title>
+				<name><![CDATA[DESIGN INNOVANT]]></name>
+				<copy><![CDATA[Son héritage se retrouve dans les détails du design, de son couvercle de batterie aux finitions en cuir fin cousu à son procédé mécanique élégamment décoré à l'intérieur du téléphone.<br><br>D'une finition parfaite, il est réalisé à la main en Angleterre et signé avec fierté. Cette touche finale témoigne de la passion et de l'attention au détail qui sont la marque de Vertu.]]></copy>
+				<video path="pioneering_design_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[MER DE SAPHIR]]></title>
+				<name><![CDATA[MER DE SAPHIR]]></name>
+				<copy><![CDATA[Vertu utilise des matériaux d'exception. Il faut parfois près de deux semaines pour créer la "mer de saphir" qui compose la partie avant du Constellation Quest. Sur le clavier, chaque touche en saphir est polie et taillée, selon un procédé qui peut prendre jusqu'à 25 heures.]]></copy>
+				<video path="sea_of_sapphire_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[CUIR]]></title>
+				<name><![CDATA[CUIR]]></name>
+				<copy><![CDATA[Le cuir qui habille le couvercle de batterie est d'une douceur parfaite et dépourvu de toute imperfection. Il fait l’objet d’une vérification attentive afin de s’assurer que son grain est irréprochable et parfait.<br><br>Les teintures employées pour colorer le cuir font également l'objet d'une minutieuse attention. Il est nécessaire de s'assurer qu'elles ne nuisent pas à la bonne réception des téléphones.]]></copy>
+				<video path="leather_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[Céramique]]></title>
+				<name><![CDATA[Céramique]]></name>
+				<copy><![CDATA[Le coussin d'écoute a été spécialement conçu afin d'équilibrer le plateau de saphir créé par le clavier et l'écran, grâce à une finition et un rendu parfaits caractéristiques de la céramique.<br><br>Le tout est magnifiquement mis en valeur par un collier en acier inoxydable spectaculaire qui accentue l'allure du téléphone.]]></copy>
+				<video path="ceramic_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+		</categorie>
+		
+		<categorie id="category1">
+			<module showpopup="true" type="copy2" scale="false">
+				<title><![CDATA[SERVICE D'ASSISTANCE PERSONNALISÉE]]></title>
+				<name><![CDATA[SERVICE D'ASSISTANCE PERSONNALISÉE]]></name>
+				<image path="lifestyle_lp.jpg"  />
+				<copy><![CDATA[Être le propriétaire d'un Constellation Quest Vertu, ce n'est pas seulement posséder un téléphone.<br><br>Dans un monde complexe, Vertu vous offre un service d'assistants qui répondent à vos besoins quotidiens avec des informations utiles et indépendantes pour embellir votre vie, en toute simplicité. Vous pouvez accéder à tous ces services et à plus encore grâce à une touche dédiée sur le téléphone.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE]]></title>
+				<name><![CDATA[VERTU CONCIERGE]]></name>
+				<image path="vertu_concierge.jpg"  />
+				<copy><![CDATA[Vertu Concierge est un service d'assistance personnalisé, indépendant et dédié. Vous pouvez y accéder depuis une touche spéciale sur le côté de votre téléphone.<br><br>Il est disponible partout, 24h/24, 7j/7, dans de nombreuses langues. Ce service a été conçu pour satisfaire vos besoins et vous offrir des opportunités d'expériences.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy3" scale="false">
+				<title><![CDATA[VERTU CONCIERGE:<BR>WEEK-END À VENISE]]></title>
+				<name><![CDATA[VERTU CONCIERGE: WEEK-END À VENISE]]></name>
+				<image path="weekend_in_venice.jpg"  />
+				<copy><![CDATA[Imaginez un monde où, grâce à une simple touche, vous seriez immédiatement mis en relation avec une équipe d'experts spécialisés en tous domaines, disposant d'un vaste réseau de contacts. Découvrez les réalisations diverses du Vertu Concierge depuis sa création.<br><br>Un couple passait un week-end romantique à Venise. En route pour dîner un soir, ils passèrent devant une bijouterie qui avait dans sa vitrine une superbe paire de boucles d'oreille. Sachant qu'ils étaient déjà en retard, le mari empêcha sa femme d'aller se renseigner, ce qui se termina en dispute.<br><br>De retour à la maison, le mari se sentant coupable contacta le Vertu Concierge pour voir s'ils pouvaient l'aider à acheter ces boucles d'oreille. Malheureusement, la seule chose dont il se souvenait à propos de la boutique est qu'elle avait un auvent jaune et qu'elle était sur le chemin du restaurant. Vertu Concierge contacta un de ses experts locaux pour trouver où était le magasin. L'expert retrouva la boutique et acheta les boucles d'oreille au nom du mari. Sa femme fut folle de joie. <br><br><br>]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE:<BR>LA PARTIE D'ÉCHECS]]></title>
+				<name><![CDATA[VERTU CONCIERGE: LA PARTIE D'ÉCHECS]]></name>
+				<image path="the_chess_game.jpg"  />
+				<copy><![CDATA[Imaginez un monde où, grâce à une simple touche, vous seriez immédiatement mis en relation avec une équipe d'experts spécialisés en tous domaines, disposant d'un vaste réseau de contacts. Découvrez les réalisations diverses du Vertu Concierge depuis sa création.<br><br>Un client Vertu demanda au Vertu Concierge d'organiser le cadeau parfait pour un passionné d'échecs. Une partie fut organisée avec un grand maître d'échecs.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE:<BR>LE MARIAGE]]></title>
+				<name><![CDATA[VERTU CONCIERGE: LE MARIAGE]]></name>
+				<image path="the_wedding.jpg"  />
+				<copy><![CDATA[Imaginez un monde où, grâce à une simple touche, vous seriez immédiatement mis en relation avec une équipe d'experts spécialisés en tous domaines, disposant d'un vaste réseau de contacts. Découvrez les réalisations diverses du Vertu Concierge depuis sa création.<br><br>Un jeune couple vivant à Londres souhaitait un éléphant à leur mariage. La compréhension d'exigences culturelles diverses est une des spécialités du Vertu Concierge et à cette occasion, la demande, bien qu'inhabituelle, fut satisfaite.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE:<BR>LA DEMANDE EN MARIAGE]]></title>
+				<name><![CDATA[VERTU CONCIERGE: LA DEMANDE EN MARIAGE]]></name>
+				<image path="the_proposal.jpg"  />
+				<copy><![CDATA[Imaginez un monde où, grâce à une simple touche, vous seriez immédiatement mis en relation avec une équipe d'experts spécialisés en tous domaines, disposant d'un vaste réseau de contacts. Découvrez les réalisations diverses du Vertu Concierge depuis sa création.<br><br>Un jeune homme voulait organiser une soirée spéciale pour demander la main de sa petite amie. Vertu Concierge fit tous les arrangements, notamment la requête particulière du jeune homme : que des papillons soient lâchés dans l'air quand il lui présenterait la bague de fiançailles. ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[CITY BRIEF DE VERTU]]></title>
+				<name><![CDATA[CITY BRIEF DE VERTU]]></name>
+				<image path="lifestyle_cityBrief.jpg"  />
+				<copy><![CDATA[Vertu City Brief est une collection de guides. Chacun a été écrit et conçu indépendamment et réalisé avec le plus grand soin. Le guide correspondant à votre destination s'affiche automatiquement sur votre téléphone dès votre arrivée. Chaque guide vous donne des avis utiles et des suggestions sur où manger et boire et que visiter pendant votre séjour. Ce service exclusif est disponible dans plus de 140 destinations.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU SELECT]]></title>
+				<name><![CDATA[VERTU SELECT]]></name>
+				<image path="vertu_select.jpg"  />
+				<copy><![CDATA[Rédigés par des experts et des organisations sélectionnés avec soin, Vertu Select offre des articles originaux, choisis pour inspirer, informer et divertir selon votre région, vos préférences et vos passions.<br><br>Rédigés par des contributeurs et des partenaires respectés, les titres des articles Vertu Select s'afficheront sur le Constellation Quest via la fenêtre du fil RSS, prêts à être lus.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+		</categorie>
+
+		<categorie id="category2">			
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[PERFORMANCE]]></title>
+				<name><![CDATA[PERFORMANCE]]></name>
+				<image path="performance_lp.jpg"  />
+				<copy><![CDATA[Conçu pour les vrais citoyens du monde, le Constellation Quest est le téléphone Vertu le plus riche en applications et services jamais créé par Vertu.
+]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="false" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[SONNERIES EXCLUSIVES]]></title>
+				<name><![CDATA[SONNERIES EXCLUSIVES]]></name>
+				<video path="exclusive_ringtones_VERTU_Quest_fr.flv" />
+				<copy><![CDATA[Des sonneries aux alarmes, tous les sons du Constellation Quest sont écrits et dirigés par Benjamin Wallfisch, un jeune musicien, reconnu internationalement pour son œuvre de compositeur et chef d'orchestre.<br>La musique a été jouée et enregistrée par l'Orchestre Symphonique de Londres.<br><br>Pour le Constellation Quest, Benjamin a composé un morceau classique contemporain intitulé « Danses Constellation » . Toutes les sonneries et les alarmes sont extraites de ce morceau.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0" >
+				<title><![CDATA[HEURE EXACTE & DOUBLE<br>ZONE DE FUSEAUX HORAIRES]]></title>
+				<name><![CDATA[HEURE EXACTE & DOUBLE ZONE DE FUSEAUX HORAIRES]]></name>
+				<video path="accurate_dual_time_zone_VERTU_Quest.flv" onfinish="clock_animation.swf"/>
+				<copy><![CDATA[Lors de vos déplacements à l'étranger, l'horloge de l'écran d'accueil affiche automatiquement l'heure du pays où vous vous trouvez et l'heure dans votre pays de résidence. Cette fonction nécessite une connexion aux données.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[TOUCHES SAPHIR]]></title>
+				<name><![CDATA[TOUCHES SAPHIR]]></name>
+				<video path="sapphire_keys_VERTU_Quest.flv" />
+				<copy><![CDATA[Vertu a toujours accordé une importance particulière au design et au toucher de ses claviers. Le Constellation Quest ne fait pas exception à la règle. Chaque touche en saphir est polie et taillée, selon un procédé qui utilise de la poudre de diamant et de l'huile de l'olive et qui requiert jusqu'à 25 heures de travail. Les touches sont ensuite recouvertes d'une couche transparente imprimée en sérigraphie, plusieurs fois, pour correspondre parfaitement aux pigments du cuir et de la céramique quand elles sont rétro-éclairées au travers des trous de 0,25 mm gravés au laser.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[ÉCRAN SAPHIR]]></title>
+				<name><![CDATA[ÉCRAN SAPHIR]]></name>
+				<video path="sapphire_screen_VERTU_Quest.flv" />
+				<copy><![CDATA[Pour réaliser un écran aussi exceptionnel, il est important de travailler avec le saphir le plus pur et le plus clair qui est spécialement conçu pour Vertu. Chaque écran est poli spécialement pour produire un cristal de qualité claire et seuls les ingénieurs et les polisseurs les plus talentueux réalisent ce processus.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU.ME]]></title>
+				<name><![CDATA[VERTU.ME]]></name>
+				<image path="vertu_me.jpg"  />
+				<copy><![CDATA[Avec Vertu les informations nécessaires sont toujours à portée de main. Le compte Vertu.Me est un système de gestion des informations personnelles qui permet de synchroniser automatiquement les données personnelles avec un serveur Vertu sécurisé. Ainsi, que vous accédiez à vos informations à travers votre téléphone, un ordinateur ou Internet, vous pouvez être sûr qu'elles seront toujours actualisées et en sécurité.<br><br>Même si vous perdez votre téléphone, toutes vos données auront été sauvegardées et seront donc faciles à récupérer.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU REMOTE ASSIST]]></title>
+				<name><![CDATA[VERTU REMOTE ASSIST]]></name>
+				<image path="vertu_remote_assist.jpg"  />
+				<copy><![CDATA[Vertu fournit également une assistance technique à distance 24h/24 7j/7 via Vertu Remote Assist. Si vous avez besoin d'aide, une pression sur la touche Concierge dédiée de votre téléphone vous mettra en relation avec l'équipe d'assistance technique Vertu qui pourra accéder à votre téléphone à distance et résoudre votre problème.<br><br>Où que vous soyez dans le monde, vous pouvez être sûr que Vertu sera capable de vous aider.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+		</categorie>
+		
+	</categories>
+	
+	<!-- category thumbs -->
+	<categorietypes>
+		<category id="category0">
+			<title><![CDATA[DESIGN]]></title>
+			<url><![CDATA[DESIGN]]></url>
+		</category>
+		<category id="category1">
+			<title><![CDATA[STYLE DE VIE]]></title>
+			<url><![CDATA[STYLE DE VIE]]></url>
+		</category>
+		<category id="category2">
+			<title><![CDATA[PERFORMANCE]]></title>
+			<url><![CDATA[PERFORMANCE]]></url>
+		</category>
+	</categorietypes>
+	
+	<!-- footer -->
+	<footer>
+		<!-- EXPERIENCE MENU -->
+		<item id="bg3" type="ExMenuType">
+			<title><![CDATA[bg3]]></title>
+			<url></url>
+		</item>
+		<item id="design" x="243" y="67" type="ExMenuType">
+			<title><![CDATA[DESIGN]]></title>
+			<url></url>
+		</item>
+		<item id="lifestyle" x="405" y="67" type="ExMenuType">
+			<title><![CDATA[STYLE DE VIE]]></title>
+			<url></url>
+		</item>
+		<item id="performance" x="567" y="67" type="ExMenuType">
+			<title><![CDATA[PERFORMANCE]]></title>
+			<url></url>
+		</item>
+		<!-- EXPERIENCE MENU -->
+		
+		<!-- COLLECTION MENU -->
+		<item id="bg2" type="SpMenuType">
+			<title><![CDATA[bg2]]></title>
+			<url></url>
+		</item>
+		<item id="range" x="324" y="67" type="SpMenuType">
+			<title><![CDATA[MODÈLES]]></title>
+			<url></url>
+		</item>
+		<item id="specifications" x="486 " y="67" type="SpMenuType">
+			<title><![CDATA[CARACTÉRISTIQUES]]></title>
+			<url></url>
+		</item>
+		<!-- COLLECTION MENU -->
+		
+		<!-- MAIN MENU -->
+		<item id="bg" type="bg">
+			<title><![CDATA[bg]]></title>
+			<url></url>
+		</item>
+		<item id="experiencethephone" x="162 " y="0">
+			<title><![CDATA[EXPÉRIENCE]]></title>
+			<url></url>
+		</item>
+		<item id="collection" x="324" y="0">
+			<title><![CDATA[COLLECTION]]></title>
+			<url></url>
+		</item>
+		<item id="boutiques" x="486" y="0" >
+			<title><![CDATA[BOUTIQUES]]></title>
+			<url></url>
+		</item>
+		<item id="register" x="648" y="0">
+			<title><![CDATA[ENREGISTREZ-VOUS]]></title>
+			<url></url>
+		</item>
+		<item id="changelanguage"  type="PopUpComboBox" x="810" y="0">
+			<title><![CDATA[FRANÇAIS]]></title>
+			<option lang="ar" font="EngraversGothic BT"><![CDATA[عربي]]></option>
+			<option lang="zh" font="EngraversGothic BT"><![CDATA[简体中文]]></option>
+			<option lang="ru" font="EngraversGothic BT"><![CDATA[Русский]]></option>
+			<option lang="it" font="EngraversGothic BT"><![CDATA[Italian]]></option>
+			<option lang="de" font="EngraversGothic BT"><![CDATA[Deutsch]]></option>
+			<option lang="fr" font="EngraversGothic BT"><![CDATA[Français]]></option>
+			<option lang="en" font="EngraversGothic BT"><![CDATA[English]]></option>
+		</item>
+		<!-- MAIN MENU -->
+		
+		<!-- FOOTER MENU -->
+		<item id="vertu_dot_com" x="839" y="45" type="LowMenuType">
+			<title><![CDATA[VERTU.COM]]></title>
+			<url></url>
+		</item>
+		<!-- FOOTER MENU -->
+		
+		
+	</footer> 
+	<buttons>
+		<close><![CDATA[FERMER]]></close>
+		<more><![CDATA[LIRE LA SUITE]]></more>
+		<hide><![CDATA[CACHER]]></hide>
+	</buttons>
+	
+</content>

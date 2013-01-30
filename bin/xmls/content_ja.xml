@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<!-- modules -->
+	<categories>
+		<categorie id="category0">
+			<module id="1" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module id="5" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module id="9" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+		</categorie>
+		
+		<categorie id="category1">
+			<module id="2" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module id="4" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module id="17" type="video">
+				<title><![CDATA[LEATHER]]></title>
+				<video path="Beauty_Leather_Film.flv" />
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module id="18" type="video">
+				<title><![CDATA[BEAUTY]]></title>
+				<video path="Beauty_30_Second_Film.flv" />
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module id="13" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category1]]></category>
+			</module>
+		</categorie>
+		<categorie id="category2">
+			<module id="3" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module id="7" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module id="10" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module id="12" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module id="14" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module id="16" type="video">
+				<title><![CDATA[SEA OF SAPPHIRE]]></title>
+				<video path="Beauty_Sea_Of_Sapphire_Film.flv" />
+				<category><![CDATA[category2]]></category>
+			</module>
+		</categorie>
+		
+		<categorie id="category3">
+			<module id="6" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category3]]></category>
+			</module>
+			<module id="8" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category3]]></category>
+			</module>
+			<module id="11" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category3]]></category>
+			</module>
+			<module id="15" type="video">
+				<title><![CDATA[COMING SOON]]></title>
+				<video path="Web_Montage_Teaser.flv" />
+				<category><![CDATA[category3]]></category>
+			</module>
+		</categorie>
+	</categories>
+	
+	<!-- category thumbs -->
+	<categorietypes>
+		<category id="module1">
+			<title><![CDATA[BEAUTY]]></title>
+			<url><![CDATA[BEAUTY]]></url>
+		</category>
+		<category id="module2">
+			<title><![CDATA[PERFORMANCE]]></title>
+			<url><![CDATA[PERFORMANCE]]></url>
+		</category>
+		<category id="module3">
+			<title><![CDATA[LIFE. BEAUTIFULLY ARRANGED]]></title>
+			<url><![CDATA[LIFEBEAUTIFULLYARRANGED]]></url>
+		</category>
+		<category id="module4">
+			<title><![CDATA[LIFESTYLE]]></title>
+			<url><![CDATA[LIFESTYLE]]></url>
+		</category>
+	</categorietypes>
+	
+	<!-- footer -->
+	<footer>
+		<item id="experiencethephone" x="175 " y="15">
+			<title><![CDATA[Experience]]></title>
+			<url></url>
+		</item>
+		<item id="thecollection" x="331" y="15">
+			<title><![CDATA[Collection]]></title>
+			<url></url>
+		</item>
+		<item id="specifications" x="487" y="15">
+			<title><![CDATA[Specifications]]></title>
+			<url></url>
+		</item>
+		<item id="wheretobuy" x="643" y="15">
+			<title><![CDATA[Stores]]></title>
+			<url></url>
+		</item>
+		<item id="vertucom" x="854" y="46">
+			<title><![CDATA[Vertu.com]]></title>
+			<url></url>
+		</item>
+		
+		
+	
+		<item id="changelanguage"  type="PopUpComboBox" x="805" y="7">
+			<title><![CDATA[English]]></title>
+			<option lang="ja" font="DFPHeiW7-GB"><![CDATA[日本語]]></option>
+			<option lang="zh" font="DFPHeiW7-GB"><![CDATA[简体中文]]></option>
+			<option lang="ru" font="Arial Unicode MS"><![CDATA[Русский]]></option>
+			<option lang="de" font="EngraversGothic BT"><![CDATA[Deutsch]]></option>
+			<option lang="fr" font="EngraversGothic BT"><![CDATA[Français]]></option>
+			<option lang="en" font="EngraversGothic BT"><![CDATA[English]]></option>
+		</item>
+		
+		
+		<item id="category0" x="175" y="78" type="SubMenuType">
+			<title><![CDATA[BEAUTY]]></title>
+			<url></url>
+		</item>
+		<item id="category1" x="331" y="78" type="SubMenuType">
+			<title><![CDATA[PERFORMANCE]]></title>
+			<url></url>
+		</item>
+		<item id="category2" x="487" y="78" type="SubMenuType">
+			<title><![CDATA[LIFE. BEAUTIFULLY ARRANGED]]></title>
+			<url></url>
+		</item>
+		<item id="category3" x="643" y="78" type="SubMenuType">
+			<title><![CDATA[LIFESTYLE]]></title>
+			<url></url>
+		</item>
+		<item id="back" x="805" y="78" type="SubMenuType">
+			<title><![CDATA[BACK]]></title>
+			<url></url>
+		</item>
+		
+	</footer>
+	<buttons>
+		<close><![CDATA[CLOSE]]></close>
+		<more><![CDATA[READ MORE]]></more>
+		<hide><![CDATA[HIDE]]></hide>
+	</buttons>
+</content>

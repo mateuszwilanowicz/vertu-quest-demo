@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<!-- modules -->
+	<categories>
+		<categorie id="category0">
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[DESIGN]]></title>
+				<name><![CDATA[DESIGN]]></name>
+				<image path="design_lp.jpg"  />
+				<copy><![CDATA[Mit der unaufdringlichen Eleganz und dem klassischen Understatement der Constellation Serie verströmt das Constellation Quest Selbstbewusstsein und Stil. ]]></copy>
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[PIONEERING DESIGN]]></title>
+				<name><![CDATA[PIONEERING DESIGN]]></name>
+				<copy><![CDATA[Das Erbe einer einzigartigen Designgeschichte zeigt sich in Details wie der mit bestem Leder bezogenen Batterieabdeckung sowie der eleganten Feinmechanik im Inneren des Telefons.<br><br>Die in England bis zur Perfektion handgefertigten Telefone werden einzeln signiert. Diese dezente Geste ist ein weiterer Beweis für die einzigartige handwerkliche Kunstfertigkeit, die Leidenschaft und die Liebe zum Detail, die Vertu seit jeher ausmachen.]]></copy>
+				<video path="pioneering_design_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[SAPHIRKRISTALL-DISPLAY]]></title>
+				<name><![CDATA[SAPHIRKRISTALL-DISPLAY]]></name>
+				<copy><![CDATA[Vertu verwendet ausschließlich außergewöhnliche Materialien. Es kann bis zu zwei Wochen dauern, das Saphirkristall-Display des Constellation Quest zu fertigen. So wird jede Saphirtaste unter Zuhilfenahme von Diamantpulver und Olivenöl geschliffen und zugeschnitten. Dieser Prozess kann bis zu 25 Stunden pro Telefon und Tastatur in Anspruch nehmen.]]></copy>
+				<video path="sea_of_sapphire_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[LEDER]]></title>
+				<name><![CDATA[LEDER]]></name>
+				<copy><![CDATA[Das weiche, makellose Leder auf der Batterieabdeckung wird gänzlich von Hand gefertigt. Somit kann Vertu sicherstellen, dass die Maserung ebenmäßig und perfekt ist.<br><br>Sogar die Farbstoffe für das makellose Leder werden auf mögliche Einschränkungen des Empfangs untersucht.]]></copy>
+				<video path="leather_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[KERAMIK]]></title>
+				<name><![CDATA[KERAMIK]]></name>
+				<copy><![CDATA[Das Hörerkissen aus Keramik rundet die durch das Saphirkristall-Display und die Tastatur entstehende Erhöhung harmonisch ab.<br><br>Die Aufsehen erregende Einfassung aus Edelstahl kontrastiert und betont zusätzlich die fließende Gesamtform des Constellation Quest.]]></copy>
+				<video path="ceramic_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+		</categorie>
+		
+		<categorie id="category1">
+			<module showpopup="true" type="copy2" scale="false">
+				<title><![CDATA[IHR LIFESTYLE-PARTNER]]></title>
+				<name><![CDATA[IHR LIFESTYLE-PARTNER]]></name>
+				<image path="lifestyle_lp.jpg"  />
+				<copy><![CDATA[Mit einem Vertu Constellation Quest besitzen Sie mehr als nur ein Telefon.<br><br>In dieser manchmal etwas chaotischen Welt bietet Ihnen der Vertu Lifestyle-Partner interessante individuelle und wissenswerte Informationen, die Ihr Leben bereichern. Getreu dem Grundsatz:<br>Life – beautifully arranged. Auf all das und noch viel mehr können Sie über die eigens dafür vorgesehene Taste an Ihrem Telefon zugreifen.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE]]></title>
+				<name><![CDATA[VERTU CONCIERGE]]></name>
+				<image path="vertu_concierge.jpg"  />
+				<copy><![CDATA[Vertu Concierge ist ein individueller Lifestyle-Service, auf den Sie über eine spezielle Taste Ihres Vertu Telefons jederzeit zugreifen können.<br><br>Dieser in vielen Sprachen rund um die Uhr erreichbare Service erfüllt Ihnen Ihre Wünsche und vermittelt Ihnen einzigartige Erlebnisse. ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy3" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>WOCHENENDE IN VENEDIG]]></title>
+				<name><![CDATA[VERTU CONCIERGE: WOCHENENDE IN VENEDIG]]></name>
+				<image path="weekend_in_venice.jpg"  />
+				<copy><![CDATA[Stellen Sie sich eine Welt vor, in der Sie auf Knopfdruck sofort mit einem Team aus Fachleuten verbunden werden, das über ein umfassendes weltweites Wissen, über reiche Erfahrung und wertvolle Kontakte verfügt. Werfen Sie einen Blick auf einige der Dinge, die wir seit Einrichtung des Vertu Concierge Services für unsere Kunden ermöglichen konnten.<br><br>Ein Ehepaar verbrachte ein romantisches Wochenende in Venedig. Auf dem Weg zum Abendessen kamen sie an einem Juweliergeschäft vorbei, in dessen Auslage ein wundervolles Paar Ohrringe ausgestellt war. Da sie sich bereits verspätet hatten, wollte der Mann nicht, dass seine Frau in das Geschäft geht und sie stritten sich. <br><br>Nach ihrer Rückkehr plagte den Ehemann sein schlechtes Gewissen und er kontaktierte den Vertu Concierge Service. Dieser sollte ihm dabei helfen, die Ohrringe für seine Frau zu erstehen. Leider konnte er sich nicht an den Namen des Geschäfts erinnern, sondern nur daran, dass es eine gelbe Markise hatte und auf dem Weg zum Restaurant lag. Vertu Concierge kontaktierte einen lokalen Experten, um weitere Informationen zu erhalten. Es gelang dem Experten, den Juwelier ausfindig zu machen und die Ohrringe im Auftrag des Ehemannes zu kaufen. Seine Frau war überwältigt als sie die Ohrringe sah.<br><br><br>]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>DIE SCHACHPARTIE]]></title>
+				<name><![CDATA[VERTU CONCIERGE: DIE SCHACHPARTIE]]></name>
+				<image path="the_chess_game.jpg"  />
+				<copy><![CDATA[Stellen Sie sich eine Welt vor, in der Sie auf Knopfdruck sofort mit einem Team aus Fachleuten verbunden werden, das über ein umfassendes weltweites Wissen, reiche Erfahrung und wertvolle Kontakte verfügt. Werfen Sie einen Blick auf einige der Dinge, die wir seit Einrichtung des Vertu Concierge Services für unsere Kunden ermöglichen konnten.<br><br>Ein Vertu Kunde bat um das perfekte Geschenk für einen Schachfanatiker. Vertu Concierge ermöglichte, dass er eine Partie gegen einen Schachgroßmeister spielen durfte.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>DIE HOCHZEIT]]></title>
+				<name><![CDATA[VERTU CONCIERGE: DIE HOCHZEIT]]></name>
+				<image path="the_wedding.jpg"  />
+				<copy><![CDATA[Stellen Sie sich eine Welt vor, in der Sie auf Knopfdruck sofort mit einem Team aus Fachleuten verbunden werden, das über ein umfassendes weltweites Wissen, über reiche Erfahrung und wertvolle Kontakte verfügt. Werfen Sie einen Blick auf einige der Dinge, die wir seit Einrichtung des Vertu Concierge Services für unsere Kunden ermöglichen konnten.<br><br>Ein junges Paar aus London träumte davon, dass ein Elefant bei ihrer Hochzeit anwesend sein sollte. Da Vertu Concierge auf die unterschiedlichen kulturellen Bedürfnisse seiner Kunden spezialisiert ist, konnte der ungewöhnlich Wunsch des jungen Paares erfüllt werden.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>DER ANTRAG]]></title>
+				<name><![CDATA[VERTU CONCIERGE: DER ANTRAG]]></name>
+				<image path="the_proposal.jpg"  />
+				<copy><![CDATA[Stellen Sie sich eine Welt vor, in der Sie auf Knopfdruck sofort mit einem Team aus Fachleuten verbunden werden, das über ein umfassendes weltweites Wissen, über reiche Erfahrung und wertvolle Kontakte verfügt. Werfen Sie einen Blick auf einige der Dinge, die wir seit Einrichtung des Vertu Concierge Services für unsere Kunden ermöglichen konnten.<br><br>Ein junger Mann plante einen ganz besonderen Abend, um seiner Freundin einen Heiratsantrag zu machen. Vertu Concierge half ihm bei seinen Vorbereitungen und erfüllte ihm einen ganz besonderen Wunsch. Während er seiner Freundin den Ring überreichte, wurden Schmetterlinge freigelassen.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CITY BRIEF]]></title>
+				<name><![CDATA[VERTU CITY BRIEF]]></name>
+				<image path="lifestyle_cityBrief.jpg"  />
+				<copy><![CDATA[Vertu City Brief ist eine unabhängig verfasste Sammlung von Reiseführern zu über 140 Orten. Die einzelnen Reiseberichte wurden sorgsam zusammengestellt und stehen Ihnen automatisch auf Ihrem Vertu Telefon zur Verfügung sobald Sie sich an einem dieser Orte aufhalten.<br>Vertu City Brief liefert Ihnen während Ihres Aufenthalts nützliche Inspirationen und Empfehlungen für Restaurants, Einkäufe oder Sehenswürdigkeiten.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU SELECT]]></title>
+				<name><![CDATA[VERTU SELECT]]></name>
+				<image path="vertu_select.jpg"  />
+				<copy><![CDATA[Die Artikel von Vertu Select werden von ausgewählten Experten und Organisationen geschrieben und bietet Ihnen Originalartikel, um Ihnen passend zu Ihrer jeweiligen Region und Ihren Vorlieben Anregungen, Informationen und Unterhaltung zu bieten.<br><br>Von namhaften Autoren und Partnern geschrieben, sind die Überschriften der<br>Vertu Select Artikel über das RSS-Feed-Fenster auf Ihrem Constellation Quest jederzeit abrufbar.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+		</categorie>
+
+		<categorie id="category2">			
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[PERFORMANCE]]></title>
+				<name><![CDATA[PERFORMANCE]]></name>
+				<image path="performance_lp.jpg"  />
+				<copy><![CDATA[Das Constellation Quest wurde für den echten Weltbürger geschaffen und beinhaltet den bisher größten Funktionsumfang aller Vertu Modelle.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="false" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[EXKLUSIVE KLINGELTÖNE]]></title>
+				<name><![CDATA[EXKLUSIVE KLINGELTÖNE]]></name>
+				<video path="exclusive_ringtones_VERTU_Quest.flv" />
+				<copy><![CDATA[Von den Klingeltonmelodien bis zu den Signaltönen wurden alle Sounds des Constellation Quest von Benjamin Wallfisch geschrieben und dirigiert, einem jungen Musiker, der für seine Arbeit international hoch gelobt wird. Die Musik wurde vom London Symphony Orchestra eingespielt.<br><br>Für das Constellation Quest komponierte Benjamin Wallfisch ein klassisches zeitgenössisches Stück „Constellation Dances“, dem alle Klingeltöne und Signale entnommen wurden.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0" >
+				<title><![CDATA[PRÄZISE ZEITANGABE FÜR<br>ZWEI ZEITZONEN]]></title>
+				<name><![CDATA[PRÄZISE ZEITANGABE FÜR ZWEI ZEITZONEN]]></name>
+				<video path="accurate_dual_time_zone_VERTU_Quest.flv" onfinish="clock_animation.swf"/>
+				<copy><![CDATA[Bei Auslandsreisen stellt sich die Zeitanzeige auf der Startseite automatisch auf die Zeit am Zielort ein und zeigt zusätzlich die Uhrzeit Ihres Heimatortes an. Für diesen Service ist eine Datenverbindung notwendig.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[SAPHIRTASTEN]]></title>
+				<name><![CDATA[SAPHIRTASTEN]]></name>
+				<video path="sapphire_keys_VERTU_Quest.flv" />
+				<copy><![CDATA[Vertu zeichnete sich schon immer durch das besondere Design und die einzigartige Haptik der Tastaturen seiner Mobiltelefone aus. Das Constellation Quest bildet hier keine Ausnahme. Jede Saphirtaste wird mit Diamantpulver und Olivenöl geschliffen und zugeschnitten. Dieser Prozess kann bis zu 25 Stunden pro Telefon und Tastatur in Anspruch nehmen. Anschließend erhalten die Tasten einen transparenten Überzug, der mehrfach im Siebdruckverfahren bedruckt wird. Dadurch passt die Tastatur bei Ausleuchtung von hinten genau zu den Leder- und Keramikpigmenten.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[SAPHIRKRISTALL-DISPLAY]]></title>
+				<name><![CDATA[SAPHIRKRISTALL-DISPLAY]]></name>
+				<video path="sapphire_screen_VERTU_Quest.flv" />
+				<copy><![CDATA[Um ein derartig außergewöhnliches Display herzustellen, ist es entscheidend, ausschließlich mit den reinsten und klarsten Kristallen zu arbeiten. Diese werden eigens für Vertu gezüchtet. Jedes Display wird speziell bearbeitet und poliert, um eine kristallklare Qualität zu gewährleisten. Nur die erfahrensten Ingenieure und Polierer können diese Aufgabe ausführen.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU.ME]]></title>
+				<name><![CDATA[VERTU.ME]]></name>
+				<image path="vertu_me.jpg"  />
+				<copy><![CDATA[Das Constellation Quest gewährleistet, dass Sie jederzeit alle für Sie relevanten Informationen zur Hand haben. Der Vertu.Me Account ist ein „Personal Information Management System“, das die automatische Synchronisation von persönlichen Daten mit dem Vertu Server ermöglicht. Ganz gleich, ob Sie über Ihr Telefon, Ihren Computer oder das Internet auf Ihre Informationen zugreifen möchten: Sie können sicher sein, dass alle Daten immer auf dem aktuellen Stand für Sie zugänglich sind.<br><br>Selbst bei einem Verlust Ihres Telefons können Sie stets darauf vertrauen, dass Sie Ihre Daten nicht verlieren und sich diese reibungslos wiederherstellen lassen.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU REMOTE ASSIST]]></title>
+				<name><![CDATA[VERTU REMOTE ASSIST]]></name>
+				<image path="vertu_remote_assist.jpg"  />
+				<copy><![CDATA[Darüber hinaus bietet Vertu über den<br>Vertu Remote Assist rund um die Uhr technischen Support. Sollten Sie Hilfe bei der Einrichtung Ihres Mobiltelefons, oder anderen technischen Fragen benötigen, so erreichen Sie über die Concierge-Taste mit einem Knopfdruck den technischen Support von Vertu. Dieser kann jederzeit auf Ihr Telefon zugreifen und das Problem für Sie lösen.<br><br>Egal wo Sie sich gerade aufhalten, Sie können sicher sein, dass Vertu Ihnen helfen kann.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+		</categorie>
+		
+	</categories>
+	
+	<!-- category thumbs -->
+	<categorietypes>
+		<category id="category0">
+			<title><![CDATA[DESIGN]]></title>
+			<url><![CDATA[DESIGN]]></url>
+		</category>
+		<category id="category1">
+			<title><![CDATA[LIFESTYLE]]></title>
+			<url><![CDATA[LIFESTYLE]]></url>
+		</category>
+		<category id="category2">
+			<title><![CDATA[PERFORMANCE]]></title>
+			<url><![CDATA[PERFORMANCE]]></url>
+		</category>
+	</categorietypes>
+	
+	<!-- footer -->
+	<footer>
+		<!-- EXPERIENCE MENU -->
+		<item id="bg3" type="ExMenuType">
+			<title><![CDATA[bg3]]></title>
+			<url></url>
+		</item>
+		<item id="design" x="243" y="67" type="ExMenuType">
+			<title><![CDATA[DESIGN]]></title>
+			<url></url>
+		</item>
+		<item id="lifestyle" x="405" y="67" type="ExMenuType">
+			<title><![CDATA[LIFESTYLE]]></title>
+			<url></url>
+		</item>
+		<item id="performance" x="567" y="67" type="ExMenuType">
+			<title><![CDATA[PERFORMANCE]]></title>
+			<url></url>
+		</item>
+		<!-- EXPERIENCE MENU -->
+		
+		<!-- COLLECTION MENU -->
+		<item id="bg2" type="SpMenuType">
+			<title><![CDATA[bg2]]></title>
+			<url></url>
+		</item>
+		<item id="range" x="324" y="67" type="SpMenuType">
+			<title><![CDATA[MODELLE]]></title>
+			<url></url>
+		</item>
+		<item id="specifications" x="486 " y="67" type="SpMenuType">
+			<title><![CDATA[SPEZIFIKATIONEN]]></title>
+			<url></url>
+		</item>
+		<!-- COLLECTION MENU -->
+		
+		<!-- MAIN MENU -->
+		<item id="bg" type="bg">
+			<title><![CDATA[bg]]></title>
+			<url></url>
+		</item>
+		<item id="experiencethephone" x="162 " y="0">
+			<title><![CDATA[ERFAHRUNG]]></title>
+			<url></url>
+		</item>
+		<item id="collection" x="324" y="0">
+			<title><![CDATA[KOLLEKTION]]></title>
+			<url></url>
+		</item>
+		<item id="boutiques" x="486" y="0" >
+			<title><![CDATA[BOUTIQUEN]]></title>
+			<url></url>
+		</item>
+		<item id="register" x="648" y="0">
+			<title><![CDATA[ANMELDEN]]></title>
+			<url></url>
+		</item>
+		<item id="changelanguage"  type="PopUpComboBox" x="810" y="0">
+			<title><![CDATA[Deutsch]]></title>
+			  
+			<option lang="ar" font="EngraversGothic BT"><![CDATA[ar]]></option>
+			
+			<option lang="zh" font="EngraversGothic BT"><![CDATA[简体中文]]></option>
+			<option lang="ru" font="EngraversGothic BT"><![CDATA[Русский]]></option>
+			<!--  
+			<option lang="ru" font="EngraversGothic BT"><![CDATA[Русский]]></option>
+			-->
+			<option lang="it" font="EngraversGothic BT"><![CDATA[Italian]]></option>
+			<option lang="de" font="EngraversGothic BT"><![CDATA[Deutsch]]></option>
+			<option lang="fr" font="EngraversGothic BT"><![CDATA[Français]]></option>
+			<option lang="en" font="EngraversGothic BT"><![CDATA[English]]></option>
+		</item>
+		<!-- MAIN MENU -->
+		
+		<!-- FOOTER MENU -->
+		<item id="vertu_dot_com" x="839" y="45" type="LowMenuType">
+			<title><![CDATA[VERTU.COM]]></title>
+			<url></url>
+		</item>
+		<!-- FOOTER MENU -->
+		
+		
+	</footer> 
+	<buttons>
+		<close><![CDATA[SCHLIEßEN]]></close>
+		<more><![CDATA[WEITERE INFORMATIONEN]]></more>
+		<hide><![CDATA[AUSBLENDEN]]></hide>
+	</buttons>
+	
+</content>

@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<countries language="ru" default="СТРАНА ПРОЖИВАНИЯ">
+		<country code="au" name="Австралия"/>
+		<country code="at" name="Австрия"/>
+		<country code="az" name="Азербайджан"/>
+		<country code="ax" name="Аландские острова"/>
+		<country code="al" name="Албания"/>
+		<country code="dz" name="Алжир"/>
+		<country code="as" name="Американское Самоа"/>
+		<country code="ai" name="Ангилья"/>
+		<country code="ao" name="Ангола"/>
+		<country code="ad" name="Андорра"/>
+		<country code="aq" name="Антарктика"/>
+		<country code="ag" name="Антигуа и Барбуда"/>
+		<country code="ar" name="Аргентина"/>
+		<country code="am" name="Армения"/>
+		<country code="aw" name="Аруба"/>
+		<country code="af" name="Афганистан"/>
+		<country code="bs" name="Багамы"/>
+		<country code="bd" name="Бангладеш"/>
+		<country code="bb" name="Барбадос"/>
+		<country code="bh" name="Бахрейн"/>
+		<country code="by" name="Беларусь"/>
+		<country code="bz" name="Белиз"/>
+		<country code="be" name="Бельгия"/>
+		<country code="bj" name="Бенин"/>
+		<country code="bm" name="Бермуды"/>
+		<country code="bg" name="Болгария"/>
+		<country code="bo" name="Боливия"/>
+		<country code="ba" name="Босния и Герцеговина"/>
+		<country code="bw" name="Ботсвана"/>
+		<country code="br" name="Бразилия"/>
+		<country code="io" name="Британская территория в Индийском океане"/>
+		<country code="vg" name="Британские Виргинские острова"/>
+		<country code="bn" name="Бруней"/>
+		<country code="bf" name="Буркина Фасо"/>
+		<country code="bi" name="Бурунди"/>
+		<country code="bt" name="Бутан"/>
+		<country code="vu" name="Вануату"/>
+		<country code="va" name="Ватикан"/>
+		<country code="gb" name="Великобритания"/>
+		<country code="hu" name="Венгрия"/>
+		<country code="ve" name="Венесуэла"/>
+		<country code="vi" name="Виргинские острова"/>
+		<country code="tl" name="Восточный Тимор"/>
+		<country code="vn" name="Вьетнам"/>
+		<country code="ga" name="Габон"/>
+		<country code="ht" name="Гаити"/>
+		<country code="gy" name="Гайана"/>
+		<country code="gm" name="Гамбия"/>
+		<country code="gh" name="Гана"/>
+		<country code="gt" name="Гватемала"/>
+		<country code="gn" name="Гвинея"/>
+		<country code="gw" name="Гвинея-Бисау"/>
+		<country code="de" name="Германия"/>
+		<country code="gi" name="Гибралтар"/>
+		<country code="hn" name="Гондурас"/>
+		<country code="hk" name="Гонконг"/>
+		<country code="gd" name="Гренада "/>
+		<country code="gl" name="Гренландия"/>
+		<country code="gr" name="Греция"/>
+		<country code="ge" name="Грузия"/>
+		<country code="dk" name="Дания"/>
+		<country code="st" name="Демократическая Республика Сан-Томе и Принсипи"/>
+		<country code="dj" name="Джибути"/>
+		<country code="dm" name="Доминика"/>
+		<country code="do" name="Доминиканская Республика"/>
+		<country code="eg" name="Египет"/>
+		<country code="zm" name="Замбия"/>
+		<country code="eh" name="Западная Сахара"/>
+		<country code="zw" name="Зимбабве"/>
+		<country code="il" name="Израиль"/>
+		<country code="in" name="Индия"/>
+		<country code="id" name="Индонезия"/>
+		<country code="jo" name="Иордания"/>
+		<country code="iq" name="Ирак"/>
+		<country code="ir" name="Иран"/>
+		<country code="ie" name="Ирландия"/>
+		<country code="is" name="Исландия"/>
+		<country code="es" name="Испания"/>
+		<country code="it" name="Италия"/>
+		<country code="ye" name="Йемен"/>
+		<country code="cv" name="Кабо-Верде"/>
+		<country code="kz" name="Казахстан"/>
+		<country code="ky" name="Каймановы острова"/>
+		<country code="kh" name="Камбоджа"/>
+		<country code="cm" name="Камерун"/>
+		<country code="ca" name="Канада"/>
+		<country code="qa" name="Катар"/>
+		<country code="ke" name="Кения"/>
+		<country code="cy" name="Кипр"/>
+		<country code="ki" name="Кирибати"/>
+		<country code="cn" name="Китай"/>
+		<country code="cc" name="Кокосовые (Килинг) острова"/>
+		<country code="co" name="Колумбия"/>
+		<country code="km" name="Коморские Острова"/>
+		<country code="cd" name="Конго, Демократическая республика"/>
+		<country code="cg" name="Конго, Республика"/>
+		<country code="cr" name="Коста-Рика"/>
+		<country code="ci" name="Кот-д' Ивуар"/>
+		<country code="cu" name="Куба"/>
+		<country code="kw" name="Кувейт"/>
+		<country code="la" name="Лаос"/>
+		<country code="lv" name="Латвия"/>
+		<country code="ls" name="Лесото"/>
+		<country code="lr" name="Либерия"/>
+		<country code="lb" name="Ливан"/>
+		<country code="ly" name="Ливия"/>
+		<country code="lt" name="Литва"/>
+		<country code="li" name="Лихтенштейн"/>
+		<country code="lu" name="Люксембург"/>
+		<country code="mu" name="Маврикий"/>
+		<country code="mr" name="Мавритания"/>
+		<country code="mg" name="Мадагаскар"/>
+		<country code="yt" name="Майотта"/>
+		<country code="mo" name="Макао"/>
+		<country code="mk" name="Македония"/>
+		<country code="mw" name="Малави"/>
+		<country code="my" name="Малайзия"/>
+		<country code="ml" name="Мали"/>
+		<country code="um" name="Малые Тихоокеанские острова"/>
+		<country code="mv" name="Мальдивы"/>
+		<country code="mt" name="Мальта"/>
+		<country code="ma" name="Марокко"/>
+		<country code="mh" name="Маршалловы Острова"/>
+		<country code="mx" name="Мексика"/>
+		<country code="mz" name="Мозамбик"/>
+		<country code="mc" name="Монако"/>
+		<country code="mn" name="Монголия"/>
+		<country code="mm" name="Мьянма"/>
+		<country code="na" name="Намибия"/>
+		<country code="nr" name="Науру"/>
+		<country code="np" name="Непал"/>
+		<country code="ne" name="Нигер"/>
+		<country code="ng" name="Нигерия"/>
+		<country code="an" name="Нидерландские Антильские Острова"/>
+		<country code="nl" name="Нидерланды"/>
+		<country code="ni" name="Никарагуа"/>
+		<country code="nz" name="Новая Зеландия"/>
+		<country code="nc" name="Новая Каледония"/>
+		<country code="no" name="Норвегия"/>
+		<country code="bv" name="о. Буве"/>
+		<country code="gp" name="о. Гваделупа"/>
+		<country code="gg" name="о. Гернси"/>
+		<country code="mq" name="о. Мартиника"/>
+		<country code="ms" name="о. Монтсеррат"/>
+		<country code="nu" name="о. Ниуэ"/>
+		<country code="re" name="о. Реюньон"/>
+		<country code="ae" name="Объединенные Арабские Эмираты"/>
+		<country code="gu" name="о-в Гуам"/>
+		<country code="pw" name="о-ва Палау"/>
+		<country code="tc" name="о-ва Теркс и Кайкос"/>
+		<country code="tv" name="о-ва Тувалу"/>
+		<country code="ps" name="Оккупированная палестинская территория"/>
+		<country code="om" name="Оман"/>
+		<country code="je" name="Остров Джерси"/>
+		<country code="im" name="остров Мэн"/>
+		<country code="nf" name="остров Норфолк"/>
+		<country code="cx" name="Остров Рождества"/>
+		<country code="sh" name="остров Святой Елены"/>
+		<country code="hm" name="Остров Херд и острова Макдональд"/>
+		<country code="ck" name="Острова Кука"/>
+		<country code="pn" name="острова Питкэрн"/>
+		<country code="pk" name="Пакистан"/>
+		<country code="pa" name="Панама"/>
+		<country code="pg" name="Папуа - Новая Гвинея"/>
+		<country code="py" name="Парагвай"/>
+		<country code="pe" name="Перу"/>
+		<country code="pl" name="Польша"/>
+		<country code="pt" name="Португалия"/>
+		<country code="pr" name="Пуэрто-Рико"/>
+		<country code="kg" name="Республика Кыргызстан"/>
+		<country code="md" name="Республика Молдова"/>
+		<country code="ru" name="Российская Федерация"/>
+		<country code="rw" name="Руанда"/>
+		<country code="ro" name="Румыния"/>
+		<country code="sv" name="Сальвадор"/>
+		<country code="ws" name="Самоа"/>
+		<country code="sm" name="Сан-Марино"/>
+		<country code="sa" name="Саудовская Аравия"/>
+		<country code="sz" name="Свазиленд"/>
+		<country code="kp" name="Северная Корея"/>
+		<country code="mp" name="Северные Марианские острова"/>
+		<country code="sc" name="Сейшельские острова "/>
+		<country code="bl" name="Сен-Бартельми"/>
+		<country code="sn" name="Сенегал"/>
+		<country code="mf" name="Сен-Мартен"/>
+		<country code="pm" name="Сен-Пьер и Микелон"/>
+		<country code="vc" name="Сент-Винсент и Гренадины"/>
+		<country code="kn" name="Сент-Китс и Невис"/>
+		<country code="lc" name="Сент-Люсия"/>
+		<country code="rs" name="Сербия"/>
+		<country code="sg" name="Сингапур"/>
+		<country code="sy" name="Сирия"/>
+		<country code="sk" name="Словакия"/>
+		<country code="si" name="Словения"/>
+		<country code="us" name="Соединенные Штаты Америки"/>
+		<country code="sb" name="Соломоновы Острова"/>
+		<country code="so" name="Сомали"/>
+		<country code="sd" name="Судан"/>
+		<country code="sr" name="Суринам"/>
+		<country code="sl" name="Сьерра-Леоне"/>
+		<country code="tj" name="Таджикистан"/>
+		<country code="th" name="Таиланд"/>
+		<country code="tw" name="Тайвань"/>
+		<country code="tz" name="Танзания"/>
+		<country code="tg" name="Того"/>
+		<country code="tk" name="Токелау"/>
+		<country code="to" name="Тонга"/>
+		<country code="tt" name="Тринидад и Тобаго"/>
+		<country code="tn" name="Тунис"/>
+		<country code="tm" name="Туркменистан"/>
+		<country code="tr" name="Турция"/>
+		<country code="ug" name="Уганда"/>
+		<country code="uz" name="Узбекистан"/>
+		<country code="ua" name="Украина"/>
+		<country code="wf" name="Уоллис и Футуна"/>
+		<country code="uy" name="Уругвай"/>
+		<country code="fo" name="Фарерские острова"/>
+		<country code="fm" name="Федеративные Штаты Микронезии"/>
+		<country code="fj" name="Фиджи"/>
+		<country code="ph" name="Филиппины"/>
+		<country code="fi" name="Финляндия"/>
+		<country code="fk" name="Фолклендские острова"/>
+		<country code="fr" name="Франция"/>
+		<country code="gf" name="Французская Гвиана"/>
+		<country code="pf" name="Французская Полинезия"/>
+		<country code="tf" name="Французские Южные и Антарктические территории"/>
+		<country code="hr" name="Хорватия"/>
+		<country code="cf" name="Центральная Африканская Республика"/>
+		<country code="td" name="Чад"/>
+		<country code="me" name="Черногория"/>
+		<country code="cz" name="Чешская Республика"/>
+		<country code="cl" name="Чили"/>
+		<country code="ch" name="Швейцария"/>
+		<country code="se" name="Швеция"/>
+		<country code="sj" name="Шпицберген"/>
+		<country code="lk" name="Шри-Ланка"/>
+		<country code="ec" name="Эквадор"/>
+		<country code="gq" name="Экваториальная Гвинея"/>
+		<country code="er" name="Эритрея"/>
+		<country code="ee" name="Эстония"/>
+		<country code="et" name="Эфиопия"/>
+		<country code="za" name="Южная Африка"/>
+		<country code="gs" name="Южная Георгия и Южные Сандвичевы острова"/>
+		<country code="kr" name="Южная Корея"/>
+		<country code="jm" name="Ямайка"/>
+		<country code="jp" name="Япония"/>
+	</countries>
+	<titleList language="ru" default="ОБРАЩЕНИЕ">
+	  <item name="Г-н">Г-н</item> 
+	  <item name="Г-жа">Г-жа</item> 
+	  <item name="Другое обращение">Другое обращение</item> 
+	</titleList>
+	
+	
+	<title><![CDATA[ПОДПИСКА НА РАССЫЛКУ]]></title>
+	<copy>
+		<![CDATA[Компания Vertu приглашает Вас быть в числе первых, кто будет получать информацию о новой коллекции<br>«Constellation Quest», а также новости о некоторых других телефонах и услугах Vertu.]]>
+	</copy>
+	<formtitle><![CDATA[Пожалуйста, укажите Ваши личные данные.]]></formtitle>
+	<firstname><![CDATA[ИМЯ]]></firstname>
+	<lastname><![CDATA[ФАМИЛИЯ]]></lastname>
+	<email><![CDATA[АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ]]></email>
+	<confirmemail><![CDATA[ПОДТВЕРДИТЬ АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ]]></confirmemail>
+	<privacy><![CDATA[<span class="ru_copy">Нажимая на кнопку «Отправить», Вы тем самым выражаете свое согласие с положениями нашей политики конфиденциальности, ознакомиться с которыми можно <a href="http://www.vertu.com/in-ru/#in-ru_legal-notices/privacy-policy" class="underline_link" target="_blank">здесь.</a>.</span>]]></privacy>
+	<thankyoutitle><![CDATA[Благодарим Вас за проявление<br>интереса к новой коллекции «Constellation Quest».<br><br>Теперь Вы можете смело предвкушать получение<br>одним из первых эксклюзивных<br>новостей от Vertu.]]></thankyoutitle>
+	<submit><![CDATA[<span class="ru_copy">ОТПРАВИТЬ</span>]]></submit>
+	<errorinvalidemail><![CDATA[<span class="ru_error">Пожалуйста, убедитесь в правильности указания Вашего электронного адреса.</span>]]></errorinvalidemail>
+	<erroremailnomatch><![CDATA[<span class="ru_error">Пожалуйста, убедитесь в правильности указания Вашего электронного адреса.</span>]]></erroremailnomatch>
+	<errorfillallfields><![CDATA[<span class="ru_error">Пожалуйста, убедитесь в предоставлении всех необходимых данных.</span>]]></errorfillallfields>
+</root>

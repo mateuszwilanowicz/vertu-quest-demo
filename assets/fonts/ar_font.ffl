@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="SimplifiedArabic" output="assets\fonts" format="2">
+	<font id="SimplifiedArabic" family="Arial Unicode MS" style="0" cs="1,2,3,4,5,25,24" type="0" path="">
+		<include chars="البصيرة"/>
+	</font>
+</library>

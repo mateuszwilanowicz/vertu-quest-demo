@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<!-- modules -->
+	<categories>
+		<categorie id="category0">
+			<module showpopup="true" type="copy2" scale="false">
+				<title><![CDATA[ﻢﻴﻤﺼﺘﻟﺍ]]></title>
+				<name><![CDATA[ﻢﻴﻤﺼﺘﻟﺍ]]></name>
+				<image path="design_lp.jpg"  />
+				<copy><![CDATA["ﺯﺮﺒﻳ .ﺔﻘﺛ ﺾﻴﻔﻳ ﻱﺬﻟﺍ ﻲﻗﺍﺮﻟﺍ ﻪﺑﻮﻠﺳﺃﻭ ﺓﺭﻮﻗﻮﻟﺍ ﻪﺘﻗﺎﻧﺄﺑ Constellation Quest ﻖﻟﺄﺘﻳ
+ءﺎﻄﻏ ﻰﻠﻋ ﻂﻴﺨﻤﻟﺍ ﺪﻠﺠﻟﺍ ﻉﺍﻮﻧﺃ ﺩﻮﺟﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻝﻼﺧ ﻦﻣ ﺪﻳﺮﻔﻟﺍ ﻢﻴﻤﺼﺘﻟﺍ ﺙﺍﺮﺗ ﻒﺗﺎﻬﻟﺍ
+.ﻒﺗﺎﻬﻟﺍ ﻦﻣ ﻲﻠﺧﺍﺪﻟﺍ ﻢﺴﻘﻟﺍ ﻦﻳﺰﻳ ﻱﺬﻟﺍ ﻖﻴﻧﻷﺍ ﺯﺎﻬﺠﻟﺍ ﻞﻴﻐﺸﺗ ﻰﻟﺇ ﺔﻳﺭﺎﻄﺒﻟﺍ"]]></copy>
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[ﺪﺋﺍﺭ ﻢﻴﻤﺼﺗ]]></title>
+				<name><![CDATA[ﺪﺋﺍﺭ ﻢﻴﻤﺼﺗ]]></name>
+				<copy><![CDATA[ﺚﻴﺣ ﺍﺮﺘﻠﻜﻧﺇ ﻲﻓ ﺎﻳﻭﺪﻳ ﻒﺗﺎﻬﻟﺍ ﻊﻨﺼﻳﻭ ،ﻝﺎﻤﻜﻟﺍ ﺔﺟﺭﺩ ﻰﻟﺍ ﻩﺮﻴﺧﻷﺍ ﺕﺎﺴﻤﻠﻟﺍ ﻥﺎﻘﺗﺇ ﻢﺘﻳ
+ﻞﻌﻟﻭ .ﻞﻴﺻﺎﻔﺘﻟﺎﺑ ﻡﺎﻤﺘﻫﻻﺍﻭ ﻒﻐﺸﻟﺍ ﻰﻠﻋ ﺍﺪﻫﺎﺷ ﻩﺬﻫ ﻞﻜﺸﺗﻭ .ﺮﺨﻓ ﻞﻜﺑ ﻪﻴﻠﻋ ﻊﻴﻗﻮﺘﻟﺍ ﻢﺘﻳ
+.Vertu ﻒﺗﺍﻮﻬﻟ ﺓﺰﻴﻤﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ ﻲﻫ ﻚﻠﺗ]]></copy>
+				<video path="pioneering_design_VERTU_Quest" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[ﺮﻴﻔﺼﻟﺍ ﺕﺍﺭﻮﻠﺑ ﺔﺣﻮﻟ]]></title>
+				<name><![CDATA[ﺮﻴﻔﺼﻟﺍ ﺕﺍﺭﻮﻠﺑ ﺔﺣﻮﻟ]]></name>
+				<copy><![CDATA[Quest ﺔﻬﺟﺍﻭ ﻞﻜﺸﺗ ﻲﺘﻟﺍ ﺮﻴﻔﺼﻟﺍ ﺕﺍﺭﻮﻠﺑ ﺔﺣﻮﻟ ﻥﺇ .ﺩﺍﻮﻤﻟﺍ ﺩﻮﺟﺃ ﻂﻘﻓ Vertu ﻡﺪﺨﺘﺴﺗ
+ﻰﻠﻋ ﺮﻴﻔﺻ ﺡﺎﺘﻔﻣ ﻞﻛ ﺺﻗﻭ ﻞﻘﺻ ﻢﺘﻳ .ﻞﻤﺘﻜﺘﻟ ﻦﻴﻋﻮﺒﺳﺃ ﺏﺭﺎﻘﻳ ﺎﻣ ﻕﺮﻐﺘﺴﺗ Constellation
+.ﺔﻋﺎﺳ ٢٥ ﻕﺮﻐﺘﺴﺗ ﺪﻗ ﺔﻴﻠﻤﻋ ﻲﻓ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ]]></copy>
+				<video path="sea_of_sapphire_VERTU_Quest" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[ﺪﻠﺠﻟﺍ]]></title>
+				<name><![CDATA[ﺪﻠﺠﻟﺍ]]></name>
+				<copy><![CDATA[ﻦﻀﻣ ﺪﻬﺠﺑ ﺔﻌﻄﻗ ﻞﻛ ﻥﺭﺎﻘﺗﻭ ،ﺐﺋﺍﻮﺸﻟﺍ ﻦﻣ ﻩﻮﻠﺧﻭ ﺔﻘﺋﺎﻓ ﺔﺳﻼﺴﺑ ﺔﻳﺭﺎﻄﺒﻟﺍ ءﺎﻄﻏ ﺪﻠﺟ ﺰﻴﻤﺘﻳ
+.ﻝﺎﻤﻜﻟﺍ ﻰﺘﺣ ﺎﻬﺗﺎﺒﻴﺒﺣ ﻕﺎﺴﺗﺍ ﻥﺎﻤﻀﻟ<br><br>.ﻒﺗﺎﻬﻟﺍ ﻝﺎﺒﻘﺘﺳﺍ ﻊﻣ ﻞﺧﺍﺪﺘﺗ ﻻ ﺎﻬﻧﺃ ﻦﻣ ﻦﻘﻴﺘﻠﻟ ﺔﻳﺪﻔﻟﺍ ﺩﻮﻠﺠﻟﺍ ﺕﺎﻐﺒﺻ ﺺﺤﻓ ﺎﻀﻳﺃ ﻢﺘﻳ]]></copy>
+				<video path="leather_VERTU_Quest" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[ﻚﻴﻣﺍﺮﻴﺴﻟﺍ]]></title>
+				<name><![CDATA[ﻚﻴﻣﺍﺮﻴﺴﻟﺍ]]></name>
+				<copy><![CDATA[ﺔﺣﻮﻟ ﻝﻼﺧ ﻦﻣ ﺔﻤﻤﺼﻤﻟﺍ ﺮﻴﻔﺼﻟﺍ ﺔﺣﻮﻟ ﻦﻴﺑ ﺎﻣ ﻡﺎﺠﺴﻧﻻﺍ ﻖﻴﻘﺤﺘﻟ ﺎﺼﻴﺼﺧ ﻥﺫﻷﺍ ﺪﻨﺴﻣ ﻢﻤﺻ
+.ﻚﻴﻣﺍﺮﻴﺴﻟﺍ ﺮﺒﻋ ﻻﺇ ﻖﻘﺤﺘﺗ ﻻ ﻲﺘﻟﺍ ﺔﻴﻟﺎﺜﻤﻟﺍ ﺕﺎﺴﻤﻠﻟﺍﻭ ﺔﺷﺎﺸﻟﺍﻭ ﺢﻴﺗﺎﻔﻤﻟﺍ<br><br>.ﻞﻣﺎﻛ ﺡﺫﻮﻤﻨﻟ ﺢﺳﺎﻛ ﺯﺍﺮﺑﻹﻭ ،ﺃﺪﺼﻠﻟ ﻡﻭﺎﻘﻤﻟﺍ ﺫﻻﻮﻔﻟﺍ ﻦﻣ ﺓﺩﻼﻗ ﻝﻼﺧ ﻦﻣ ﺍﺬﻫ ﻞﻛ ﻦﻴﻌﺗ]]></copy>
+				<video path="ceramic_VERTU_Quest" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+		</categorie>
+		
+		<categorie id="category1">
+			<module showpopup="true" type="copy2" scale="false">
+				<title><![CDATA[ﺓﺎﻴﺤﻟﺍ ﻂﻤﻨﻟ ﺓﺪﻋﺎﺴﻣ]]></title>
+				<name><![CDATA[ﺓﺎﻴﺤﻟﺍ ﻂﻤﻨﻟ ﺓﺪﻋﺎﺴﻣ]]></name>
+				<image path="lifestyle_lp.jpg"  />
+				<copy><![CDATA[ﻩﺪﺣﻭ ﻒﺗﺎﻬﻟﺎﺑ ﻂﻘﻓ ﻖﻠﻌﺘﻳ ﻻ Vertu Constellation Quest ﻒﺗﺎﻫ ﻙﻼﺘﻣﺍ ﻥﺇ<br><br>ﻚﺗﺎﻴﺣ ﻂﻤﻨﺑ ﺔﻠﺻ ﺕﺍﺫﻭ ﺔﻠﻘﺘﺴﻣﻭ ﺔﻤﻬﻠﻣ ﺓﺪﻋﺎﺴﻣ Vertu ﻚﻴﻟﺇ ﻡﺪﻘﻳ ،ﻱﻮﺿﻮﻔﻟﺍ ﺎﻨﻤﻟﺎﻋ ﻲﻓ
+Vertu. ﻚﻔﺗﺎﻫ ﺮﺒﻋ ﺮﺜﻛﺃﻭ ﺍﺬﻫ ﻞﻛ ﻖﻴﻘﺤﺗ ﻦﻜﻤﻳ .ﻊﺋﺍﺭ ﻡﺎﻈﻨﺑ ﺓﺎﻴﺣ ﻥﺎﻤﻀﻟ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE]]></title>
+				<name><![CDATA[VERTU CONCIERGE]]></name>
+				<image path="vertu_concierge.jpg"  />
+				<copy><![CDATA[ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳﻭ ﺓﺎﻴﺤﻟﺍ ﻂﻤﻧ ﻰﻠﻋ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺎﺼﻴﺼﺧ ﺓﺪﻌﻣ ﻲﻫ Vertu Concierge ﺔﻣﺪﺧ
+Vertu. ﻚﻔﺗﺎﻫ ﻰﻠﻋ ﺺﺼﺨﻣ ﺭﺯ ﻝﻼﺧ ﻦﻣ ﺓﺮﺷﺎﺒﻣ ﺔﻣﺪﺨﻟﺍ<br><br>ءﺎﺿﺭﻹ ﺎﻬﻤﻴﻤﺼﺗ ﻢﺗ ﺪﻗﻭ ،ﻢﻟﺎﻌﻟﺍ ﻝﻮﺣﻭ ﺔﻋﺎﺴﻟﺍ ﺭﺍﺪﻣ ﻰﻠﻋ ﺕﺎﻐﻟ ﺓﺪﻌﺑ ﺔﺣﺎﺘﻣ ﺔﻣﺪﺨﻟﺍ
+.ﺔﺑﺮﺠﺘﻠﻟ ﺓﺪﻳﺮﻓ ﺎﺻﺮﻓ ﻚﻴﻟﺇ ﻡﺪﻘﺘﻟﻭ ﻚﺗﺎﺟﺎﻴﺘﺣﺍ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy3" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>ﺔﻴﻗﺪﻨﺒﻟﺍ ﻲﻓ ﻉﻮﺒﺳﻷﺍ ﺔﻳﺎﻬﻧ ﺔﻠﻄﻋ]]></title>
+				<name><![CDATA[VERTU CONCIERGE ﺔﻴﻗﺪﻨﺒﻟﺍ ﻲﻓ ﻉﻮﺒﺳﻷﺍ ﺔﻳﺎﻬﻧ ﺔﻠﻄﻋ]]></name>
+				<image path="weekend_in_venice.jpg"  />
+				<copy><![CDATA[ﺔﻓﺮﻌﻤﻟﺍ ﻱﻭﺫ ءﺍﺮﺒﺨﻟﺍ ﻦﻣ ﻖﻳﺮﻔﺑ ﻞﺼﺘﺗ ﻥﺃ ،ﺪﺣﺍﻭ ﺭﺯ ﻂﻐﻀﺑ ،ﻚﻨﻜﻤﻳ ﺚﻴﺣ ﺎﻤﻟﺎﻋ ﺭﻮﺼﺗ
+ﻢﺗ ﻲﺘﻟﺍ ﺔﻋﻮﻨﺘﻤﻟﺍ ﺽﻭﺮﻌﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﺓﺮﻈﻧ ﻖﻟﺃ .ﻑﺭﺎﻌﻤﻟﺍﻭ ﺓﺮﺒﺨﻟﺍﻭ ﺔﻌﺳﺍﻮﻟﺍ ﺔﻴﻤﻟﺎﻌﻟﺍ
+Vertu Concierge.  ﺔﻣﺪﺧ ﺲﻴﺳﺄﺗ ﺬﻨﻣ ﺎﻬﻘﻴﻘﺤﺗ<br><br>"ءﺎﺸﻌﻟﺍ ﻰﻟﺇ ﺎﻤﻬﻘﻳﺮﻃ ﻲﻓﻭ ﺔﻴﻗﺪﻨﺒﻟﺍ ﻲﻓ ﺔﻴﺴﻧﺎﻣﻭﺭ ﻉﻮﺒﺳﺃ ﺔﻳﺎﻬﻧ ﺔﻠﻄﻋ ﻥﺎﻴﻀﻘﻳ ﻥﺎﺟﻭﺯ ﻥﺎﻛ
+.ﻞﺤﻤﻟﺍ ﺔﻬﺟﺍﻭ ﻲﻓ ﻁﺍﺮﻗﻷﺍ ﻦﻣ ﻞﻴﻤﺟ ﺝﻭﺯ ﻪﻳﺪﻟ ﺕﺍﺮﻫﻮﺠﻣ ﺮﺠﺘﻣ ﺐﻧﺎﺠﺑ ﺍﺮﻣ ،ءﺎﺴﻤﻟﺍ ﻲﻓ
+ﻰﻟﺇ ﻚﻟﺫ ﻯﺩﺃﻭ ﻁﺍﺮﻗﻷﺍ ﻦﻋ ﻝﺄﺴﺘﻟ ﻞﺧﺪﺗ ﻪﺘﺟﻭﺯ ﻉﺪﻳ ﻥﺃ ﺮﺧﺄﺘﻤﻟﺍ ﺖﻗﻮﻠﻟ ﺍﺮﻈﻧ ﺝﻭﺰﻟﺍ ﺾﻓﺭﻭ
+.ﺭﺎﺠﺷ<br><br>"Concierge ﺔﻣﺪﺨﺑ ﻞﺼﺗﺍﻭ ،ﺐﻧﺬﻟﺎﺑ ﺮﻌﺸﻳ ﺝﻭﺰﻟﺍ ﺃﺪﺑ ،ﺎﻤﻬﻟﺰﻨﻣ ﻰﻟﺇ ﻦﻴﺟﻭﺰﻟﺍ ﺓﺩﻮﻋ ﺪﻌﺑ
+ﺎﻣ ﻞﻛ ﻥﺎﻛ ،ﻆﺤﻟﺍ ءﻮﺴﻟ .ﻁﺍﺮﻗﻷﺍ ءﺍﺮﺷ ﻲﻓ ﻪﺗﺪﻋﺎﺴﻣ ﻢﻬﻧﺎﻜﻣﺈﺑ ﻥﺎﻛ ﺍﺫﺇ ﻯﺮﻴﻟ Vertu
+ﺔﻣﺪﺧ ﺖﻠﺼﺗﺍ .ﻢﻌﻄﻤﻟﺍ ﻰﻟﺇ ﻖﻳﺮﻄﻟﺍ ﻰﻠﻋ ﻊﻘﻳﻭ ءﺍﺮﻔﺻ ﺔﻠﻈﻣ ﻪﻟ ﻥﺃ ﻮﻫ ﺮﺠﺘﻤﻟﺍ ﻦﻋ ﻩﺮﻛﺬﺘﻳ
+ﺮﺠﺘﻤﻟﺍ ﻰﻠﻋ ﺮﻴﺒﺨﻟﺍ ﺮﺜﻋ .ﺮﺠﺘﻤﻟﺍ ﻥﺎﻜﻣ ﻑﺮﻌﺘﻟ ﻦﻴﻴﻠﺤﻤﻟﺍ ﺎﻬﺋﺍﺮﺒﺧ ﺪﺣﺄﺑ Vertu Concierge
+.ﻪﺘﺟﻭﺯ ﺔﺣﺮﻔﻟﺍ ﺕﺮﻤﻏ .ﺝﻭﺰﻟﺍ ﻦﻋ ﺔﺑﺎﻴﻨﻟﺎﺑ ﻁﺍﺮﻗﻷﺍ ءﺍﺮﺷ ﻦﻣ ﻦﻜﻤﺗﻭ<br><br><br>]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>ﺞﻧﺮﻄﺸﻟﺍ ﺓﺍﺭﺎﺒﻣ]]></title>
+				<name><![CDATA[VERTU CONCIERGE ﺞﻧﺮﻄﺸﻟﺍ ﺓﺍﺭﺎﺒﻣ]]></name>
+				<image path="the_chess_game.jpg"  />
+				<copy><![CDATA[ﺔﻓﺮﻌﻤﻟﺍ ﻱﻭﺫ ءﺍﺮﺒﺨﻟﺍ ﻦﻣ ﻖﻳﺮﻔﺑ ﻞﺼﺘﺗ ﻥﺃ ،ﺪﺣﺍﻭ ﺭﺯ ﻂﻐﻀﺑ ،ﻚﻨﻜﻤﻳ ﺚﻴﺣ ﺎﻤﻟﺎﻋ ﺭﻮﺼﺗ
+ﻢﺗ ﻲﺘﻟﺍ ﺔﻋﻮﻨﺘﻤﻟﺍ ﺽﻭﺮﻌﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﺓﺮﻈﻧ ﻖﻟﺃ .ﻑﺭﺎﻌﻤﻟﺍﻭ ﺓﺮﺒﺨﻟﺍﻭ ﺔﻌﺳﺍﻮﻟﺍ ﺔﻴﻤﻟﺎﻌﻟﺍ
+Vertu Concierge.  ﺔﻣﺪﺧ ﺲﻴﺳﺄﺗ ﺬﻨﻣ ﺎﻬﻘﻴﻘﺤﺗ<br><br>ﻊﻟﻮﻣ ﺺﺨﺸﻟ ﺔﻴﻟﺎﺜﻤﻟﺍ ﺔﻳﺪﻬﻟﺍ ﺭﺎﻴﺘﺧﺍ Vertu Concierge ﺔﻣﺪﺧ ﻦﻣ Vertu ءﻼﻤﻋ ﺪﺣﺃ ﺐﻠﻃ
+.ﺎﻬﻴﺒﻋﻻ ﺯﺮﺑﺃ ﺪﺣﺃ ﻊﻣ ﺞﻧﺮﻄﺷ ﺓﺍﺭﺎﺒﻣ ﺐﻴﺗﺮﺗ ﺔﺠﻴﺘﻨﻟﺍ ﺖﻧﺎﻛﻭ .ﺞﻧﺮﻄﺸﻟﺎﺑ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>ﻑﺎﻓﺰﻟﺍ]]></title>
+				<name><![CDATA[VERTU CONCIERGE ﻑﺎﻓﺰﻟﺍ]]></name>
+				<image path="the_wedding.jpg"  />
+				<copy><![CDATA[ﺔﻓﺮﻌﻤﻟﺍ ﻱﻭﺫ ءﺍﺮﺒﺨﻟﺍ ﻦﻣ ﻖﻳﺮﻔﺑ ﻞﺼﺘﺗ ﻥﺃ ،ﺪﺣﺍﻭ ﺭﺯ ﻂﻐﻀﺑ ،ﻚﻨﻜﻤﻳ ﺚﻴﺣ ﺎﻤﻟﺎﻋ ﺭﻮﺼﺗ
+ﻢﺗ ﻲﺘﻟﺍ ﺔﻋﻮﻨﺘﻤﻟﺍ ﺽﻭﺮﻌﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﺓﺮﻈﻧ ﻖﻟﺃ .ﻑﺭﺎﻌﻤﻟﺍﻭ ﺓﺮﺒﺨﻟﺍﻭ ﺔﻌﺳﺍﻮﻟﺍ ﺔﻴﻤﻟﺎﻌﻟﺍ
+Vertu Concierge.  ﺔﻣﺪﺧ ﺲﻴﺳﺄﺗ ﺬﻨﻣ ﺎﻬﻘﻴﻘﺤﺗ<br><br>ﻢﻬﻓ ﺪﻌﻳﻭ .ﺎﻤﻬﻓﺎﻓﺯ ﻞﻔﺣ ﻰﻟﺇ ﻞﻴﻓ ﺐﻠﺟ ﺐﻴﺗﺮﺗ ﻰﻟﺇ ﻥﺪﻨﻟ ﻲﻓ ﻥﺎﻤﻴﻘﻳ ﻥﺎﺑﺎﺷ ﻥﺎﺟﻭﺯ ﺝﺎﺘﺣﺍ
+ﺔﻴﺒﻠﺗ ﺖﻤﺗ ﺔﻟﺎﺤﻟﺍ ﻩﺬﻫ ﻲﻓﻭ Vertu Concierge ﺕﺎﺻﺎﺼﺘﺧﺍ ﻦﻣ ﺔﻴﻓﺎﻘﺜﻟﺍ ﺕﺎﺒﻠﻄﺘﻤﻟﺍ ﻉﻮﻨﺗ
+.ﻱﺩﺎﻋ ﺮﻴﻏ ﺐﻠﻃ ﻥﺎﻛ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺎﺑ ،ﺐﻠﻄﻟﺍ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CONCIERGE<BR>ﺝﺍﻭﺰﻟﺍ ﺽﺮﻋ]]></title>
+				<name><![CDATA[VERTU ﺝﺍﻭﺰﻟﺍ ﺽﺮﻋ]]></name>
+				<image path="the_proposal.jpg"  />
+				<copy><![CDATA[ﺔﻓﺮﻌﻤﻟﺍ ﻱﻭﺫ ءﺍﺮﺒﺨﻟﺍ ﻦﻣ ﻖﻳﺮﻔﺑ ﻞﺼﺘﺗ ﻥﺃ ،ﺪﺣﺍﻭ ﺭﺯ ﻂﻐﻀﺑ ،ﻚﻨﻜﻤﻳ ﺚﻴﺣ ﺎﻤﻟﺎﻋ ﺭﻮﺼﺗ
+ﻢﺗ ﻲﺘﻟﺍ ﺔﻋﻮﻨﺘﻤﻟﺍ ﺽﻭﺮﻌﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﺓﺮﻈﻧ ﻖﻟﺃ .ﻑﺭﺎﻌﻤﻟﺍﻭ ﺓﺮﺒﺨﻟﺍﻭ ﺔﻌﺳﺍﻮﻟﺍ ﺔﻴﻤﻟﺎﻌﻟﺍ
+Vertu Concierge.  ﺔﻣﺪﺧ ﺲﻴﺳﺄﺗ ﺬﻨﻣ ﺎﻬﻘﻴﻘﺤﺗ<br><br>ﺔﻣﺪﺧ ﺖﻣﺎﻗ .ﻪﺘﺒﻴﺒﺣ ﻦﻣ ﺝﺍﻭﺰﻟﺍ ﺐﻠﻄﻟ ﻂﻄﺨﻳ ﻥﺎﻛ ﺚﻴﺣ ﺔﺻﺎﺧ ﺔﻴﺴﻣﺃ ﻢﻴﻈﻨﺗ ﺏﺎﺷ ﺩﺍﺭﺃ
+ﺕﺎﺷﺍﺮﻓ ﺔﻋﻮﻤﺠﻣ ﻕﻼﻃﺇ ﻲﻓ ﻞﺜﻤﺘﻳ ﺹﺎﺧ ﺐﻠﻃ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ﺕﺎﺒﻴﺗﺮﺘﻟﺍ ﻞﻜﺑ Vertu Concierge
+.ﺔﺒﻄﺨﻟﺍ ﻢﺗﺎﺧ ﻡﺪﻘﻳ ﺎﻣﺪﻨﻋ ﻮﺠﻟﺍ ﻲﻓ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU CITY BRIEF]]></title>
+				<name><![CDATA[VERTU CITY BRIEF]]></name>
+				<image path="lifestyle_cityBrief.jpg"  />
+				<copy><![CDATA[ﺎﻬﻨﻣ ﻞﻛ ﺩﺍﺪﻋﺇ ﻢﺗ ،ﻞﻘﺘﺴﻣ ﻞﻜﺸﺑ ﺔﺑﻮﺘﻜﻣ ﺔﻟﺩﺃ ﺔﻠﺴﻠﺳ ﻲﻫ Vertu City Brief ﺔﻋﻮﻤﺠﻣ ﻥﺇ
+ﻰﻠﻋ ﻞﻴﻟﺩ ﻞﻛ ﻱﻮﺘﺤﻳ .ﻊﻗﻮﻣ ﻱﺃ ﻰﻟﺇ ﻚﻟﻮﺻﻭ ﺪﻨﻋ ﻚﻔﺗﺎﻫ ﻰﻠﻋ ﻚﻴﻟﺇ ﺎﻴﺋﺎﻘﻠﺗ ﺎﻬﻤﻳﺪﻘﺗﻭ ﺔﻗﺪﺑ
+ﺩﻮﺗ ﺪﻗ ﻲﺘﻟﺍ ﻦﻛﺎﻣﻷﺍﻭ ﺏﺍﺮﺸﻟﺍﻭ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻦﻛﺎﻣﺃ ﻝﻮﺣ ﺔﻠﺻ ﺕﺍﺫﻭ ﺔﻘﻴﻗﺩ ﺕﺎﺣﺍﺮﺘﻗﺍ
+.ﺔﻬﺟﻭ ١٤٠ ﻦﻣ ﺮﺜﻛﺃ ﻲﻓ ﺔﻳﺮﺼﺤﻟﺍ ﺔﻣﺪﺨﻟﺍ ﻩﺬﻫ ﻡﺪﻘﺗ .ﻚﺘﻣﺎﻗﺇ ﻝﻼﺧ ﺎﻬﺗﺭﺎﻳﺯ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU SELECT]]></title>
+				<name><![CDATA[VERTU SELECT]]></name>
+				<image path="vertu_select.jpg"  />
+				<copy><![CDATA[ﺔﻴﻠﺻﺃ ﺕﻻﺎﻘﻣ ﻥﻮﻣﺪﻘﻳﻭ ،ﺕﺎﻤﻈﻨﻤﻟﺍﻭ ءﺍﺮﺒﺨﻟﺍ ﻦﻣ ﺔﺒﺨﻧ ﻱﺪﻳﺄﺑ Vertu Select ﺕﻻﺎﻘﻣ ﺪﻌﺗ
+ﻚﺗﺎﻳﺍﻮﻫﻭ ﻚﺗﻼﻴﻀﻔﺗﻭ ﻚﺘﻘﻄﻨﻤﻟ ﺎﻘﻓﻭ ﻚﻨﻋ ﻪﻓﺮﺗﻭ ﺕﺎﻣﻮﻠﻌﻤﻟﺎﺑ ﻙﺪﻤﺗﻭ ﻚﻤﻬﻠﺘﻟ ﺓﺭﺎﺘﺨﻣ
+.ﺔﻠﻀﻔﻤﻟﺍ<br><br>ﻰﻠﻋ Vertu Select ﺕﻻﺎﻘﻣ ﻦﻳﻭﺎﻨﻋ ﺮﻬﻈﺗ ،ﻦﻳﺮﻳﺪﻗ ءﺎﻛﺮﺷﻭ ﻦﻴﻤﻫﺎﺴﻣ ﻱﺪﻳﺄﺑ ﺏﻮﺘﻜﻣ ﻪﻧﻮﻛﻭ
+ .ﺓءﺍﺮﻘﻠﻟ ﺓﺰﻫﺎﺟﻭ feed SSRـﻟﺍ ﻡﺎﻈﻧ ﻡﺎﻈﻧ ﺮﺒﻋ Constellation Quest ﻒﺗﺎﻫ]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+		</categorie>
+
+		<categorie id="category2">			
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[ءﺍﺩﻷﺍ]]></title>
+				<name><![CDATA[ءﺍﺩﻷﺍ]]></name>
+				<image path="performance_lp.jpg"  />
+				<copy><![CDATA[Designed for true citizens of the world, the Constellation Quest is the most feature-rich phone yet created by Vertu.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="false" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[ﺔﺻﺎﺧ ﻦﻴﻧﺭ ﺕﺎﻤﻐﻧ]]></title>
+				<name><![CDATA[ﺔﺻﺎﺧ ﻦﻴﻧﺭ ﺕﺎﻤﻐﻧ]]></name>
+				<video path="exclusive_ringtones_VERTU_Quest" />
+				<copy><![CDATA[ﺕﺍﻮﺻﻷﺍ ﻊﻴﻤﺟ ﺓﺭﺍﺩﺇﻭ ﻒﻴﻟﺄﺘﺑ ﺶﻴﻔﻟﻭﻭ ﻦﻴﻣﺎﺠﻨﺑ ﻡﺎﻗ ،ﺕﺎﻬﺒﻨﻤﻟﺍ ﻰﻟﺇ ﻦﻴﻧﺮﻟﺍ ﺕﺎﻤﻐﻧ ﻦﻣ
+ﻒﻟﺆﻤﻛ ﻞﻤﻌﻳ ﺔﻴﻤﻟﺎﻋ ﺓﺮﻬﺷ ﻱﺫ ﺏﺎﺸﻟ ﻲﻘﻴﺳﻮﻣ ﻲﻫﻭ ،Constellation Quest ﻒﺗﺎﻫ ﻲﻓ ﺓﺪﺟﻮﻤﻟﺍ
+.ﻥﺪﻨﻟ ﺔﻴﻧﻮﻔﻤﻴﺳ ﺍﺮﺘﺴﻛﺭﻭﺃ ﺎﻬﺘﻠﺠﺳﻭ ﻰﻘﻴﺳﻮﻤﻟﺍ ﺖﻓﺰﻋ .ﺍﺮﺘﺴﻛﺭﻭﺃ ﺪﺋﺎﻗﻭ<br><br>ﺔﻴﻘﻴﺳﻮﻣ ﺔﻌﻄﻗ ﻒﻴﻟﺄﺘﺑ ﻦﻴﻣﺎﺠﻨﺑ ﻡﺎﻗ ،Constellation Quest ﻒﺗﺎﻫ ﻞﺟﺃ ﻦﻣﻭ ﺎﻳﺮﺼﺣ
+.ﺕﺎﻬﺒﻨﻤﻟﺍﻭ ﻦﻴﻧﺮﻟﺍ ﺕﺎﻤﻐﻧ ﻊﻴﻤﺟ ﺎﻬﻨﻣ ﺖﺟﺮﺨﺘﺳﺍ ﻢﺛ ﻦﻣ ،ﺓﺮﺻﺎﻌﻣ ﺔﻴﻜﻴﺳﻼﻛ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0" >
+				<title><![CDATA[ACCURATE & DUAL<br>TIME ZONE]]></title>
+				<name><![CDATA[ACCURATE & DUAL TIME ZONE]]></name>
+				<video path="accurate_dual_time_zone_VERTU_Quest" onfinish="clock_animation.swf"/>
+				<copy><![CDATA[ﻙﺪﺟﺍﻮﺗ ﻥﺎﻜﻣ ﻲﻓ ﺖﻗﻮﻟﺍ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋ ﺔﻋﺎﺴﻟﺍ ﺮﻬﻈﺗ ، ﺝﺭﺎﺨﻟﺍ ﻰﻟﺇ ﺮﻔﺴﻟﺍ ﺪﻨﻋ
+.ﺕﺎﻧﺎﻴﺒﻟﺍ ﻂﺑﺭ ﺓﺰﻴﻤﻟﺍ ﻩﺬﻫ ﺐﻠﻄﺘﺗ .ﺎﻴﺋﺎﻘﻠﺗ ﻲﻠﺻﻷﺍ ﻙﺪﻠﺑ ﻲﻓﻭ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[ﺮﻴﻔﺼﻟﺍ ﻦﻣ ﺢﻴﺗﺎﻔﻣ]]></title>
+				<name><![CDATA[ﺮﻴﻔﺼﻟﺍ ﻦﻣ ﺢﻴﺗﺎﻔﻣ]]></name>
+				<video path="sapphire_keys_VERTU_Quest" />
+				<copy><![CDATA[Constellation ﻒﺗﺎﻫﻭ .ﺎﻬﻔﺗﺍﻮﻫ ﺢﻴﺗﺎﻔﻣ ﺕﺎﺣﻮﻠﻟ ﺰﻴﻤﻤﻟﺍ ﺲﻤﻠﻤﻟﺍﻭ ﺮﻬﻈﻤﻟﺎﺑ Vertu ﺕﺮﺨﺘﻓﺍ ﺎﻤﻟﺎﻄﻟ
+ﺱﺎﻤﻟﺍ ﺓﺭﺩﻮﺑ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻴﻔﺻ ﺡﺎﺘﻔﻣ ﻞﻛ ﺺﻗﻭ ﻞﻘﺻ ﻢﺘﻳ .ﻚﻟﺬﻟ ءﺎﻨﺜﺘﺳﺍ ﺲﻴﻟ Quest
+ﺢﻴﺗﺎﻔﻤﻟﺍ ﻰﻠﻋ ﺔﻓﺎﻔﺷ ﺔﻘﺒﻃ ﻊﺿﻮﺗ ،ﻢﺛ ﻦﻣ .ﺔﻋﺎﺳ ٢٥ ﻕﺮﻐﺘﺴﺗ ﺪﻗ ﺔﻴﻠﻤﻋ ﻲﻓ ﻥﻮﺘﻳﺰﻟﺍ ﺖﻳﺯﻭ
+ﻚﻴﻣﺍﺮﻴﺴﻟﺍ ﻍﺎﺒﺻﺃﻭ ﺪﻠﺠﻟﺍ ﺔﻘﺑﺎﻄﻤﻟ ﻦﻳﺮﻜﺳ-ﻚﻠﻴﺴﻟﺍ ﺔﻴﻨﻘﺗ ﺔﻄﺳﺍﻮﺑ ﺕﺎﻘﺒﻃ ﺓﺪﻋ ﺔﻋﺎﺒﻃ ﺮﺒﻋ
+.ﺔﻴﻔﻠﺨﻟﺍ ﺓءﺎﺿﻹﺍ ﺪﻨﻋﺭ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[ﺮﻴﻔﺼﻟﺍ ﻦﻣ ﺔﺷﺎﺷ]]></title>
+				<name><![CDATA[ﺮﻴﻔﺼﻟﺍ ﻦﻣ ﺔﺷﺎﺷ]]></name>
+				<video path="sapphire_screen_VERTU_Quest" />
+				<copy><![CDATA[ﺮﻴﻔﺼﻟﺍ ﻉﺍﻮﻧﺃ ﻰﻔﺻﺃﻭ ﻰﻘﻧﺃ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﻢﻬﻤﻟﺍ ﻦﻣ ،ﺔﻴﺋﺎﻨﺜﺘﺳﻻﺍ ﺔﺷﺎﺸﻟﺍ ﻩﺬﻫ ﻞﺜﻣ ﻊﻨﺼﻟ
+ﺹﺎﺧ ﻞﻜﺸﺑ ﺎﻬﻠﻘﺻﻭ ﺔﺷﺎﺷ ﻞﻛ ﺔﺠﻟﺎﻌﻣ ﺖﻤﺗ Vertu. ﻡﺍﺪﺨﺘﺳﻻ ﺎﺼﻴﺼﺧ ﻩﺩﺎﺠﻳﺇ ﻢﺘﻳ ﻱﺬﻟﺍ
+.ﻞﻘﺼﻟﺍ ﻲﺼﺘﺨﻣﻭ ﻦﻴﺳﺪﻨﻬﻤﻟﺍ ﻞﻀﻓﺃ ﻻﺇ ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻬﺑ ﻡﻮﻘﻳ ﻻﻭ ﻰﻫﺎﻀﻳ ﻻ ﺎﺣﻮﺿﻭ ﻢﻳﺪﻘﺘﻟ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU.ME]]></title>
+				<name><![CDATA[VERTU.ME]]></name>
+				<image path="vertu_me.jpg"  />
+				<copy><![CDATA[ﻡﺎﻈﻧ ﻮﻫ Vertu.Me ﺏﺎﺴﺣ .ﻚﻌﺑﺎﺻﺃ ﻑﺍﺮﻃﺃ ﻰﻠﻋ ﺎﻫﺪﻳﺮﺗ ﻲﺘﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ءﺎﻘﺑ Vertu ﻦﻤﻀﺗ
+Vertu. ﻢﻘﻠﻣﻭ ﺔﻴﺼﺨﺸﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻦﻴﺑ ﺎﻴﺋﺎﻘﻠﺗ ﺎﻨﻣﺍﺰﺗ ﺢﻴﺘﻳ ﺔﻴﺼﺨﺷ ﺕﺎﻣﻮﻠﻌﻣ ﺓﺭﺍﺩﺇ
+ﻭﺃ ﺮﺗﻮﻴﺒﻤﻜﻟﺍ ،ﻚﻔﺗﺎﻫ ﻦﻣ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻰﻠﻋ ﻉﻼﻃﻹﺍ ﺪﻳﺮﺗ ءﺍﻮﺳ ،ﻲﻟﺎﺘﻟﺎﺑ
+.ﻦﻣﺁ ﻥﺎﻜﻣ ﻲﻓ ﺎﻬﻈﻔﺤﻧ ﻚﻟﺬﻛﻭ ﺕﺎﺜﻳﺪﺤﺘﻟﺍ ﺮﺧﺂﺑ ﺔﻳﺍﺭﺩ ﻰﻠﻋ ﺎﻤﺋﺍﺩ ﻥﻮﻜﺗ ﻑﻮﺳ ،ﺖﻧﺮﺘﻧﻹﺍ<br><br>"ﻟﻮﻬﺴﺑ ﺎﻬﺗﺩﺎﻌﺘﺳﺍ ﺔﻴﻧﺎﻜﻣﺇﻭ ،ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻥﺍﺪﻘﻓ ﻡﺪﻌﻟ ﻦﺌﻤﻄﺗ ﻥﺃ ﻚﻨﻜﻤﻳ ،ﺍﺬﻟ
+.ﻚﻔﺗﺎﻫ ﺖﻌﺿﺃ ﺍﺫﺇ ﻰﺘﺣ ﺎﻘﺣﻻ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU REMOTE ASSIST]]></title>
+				<name><![CDATA[VERTU REMOTE ASSIST]]></name>
+				<image path="vertu_remote_assist.jpg"  />
+				<copy><![CDATA[ﺖﺠﺘﺣﺍ ﻝﺎﺣ ﻲﻓ Vertu Remote Assist. ﻝﻼﺧ ﻦﻣ ٢٤/٧ ﺎﻴﻨﻘﺗ ﺎﻤﻋﺩ ﺎﻀﻳﺃ Vertu ﺮﻓﻮﻳﻭ
+ﺔﺴﻤﻟ ﺩﺮﺠﻤﺑ Vertu ﻲﻓ ﻲﻨﻘﺘﻟﺍ ﻢﻋﺪﻟﺍ ﻖﻳﺮﻓ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻚﻨﻜﻤﻳ ،ﺔﻴﻨﻘﺗ ﻞﺋﺎﺴﻤﺑ ﺓﺪﻋﺎﺴﻤﻠﻟ
+ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ،ﻚﻬﺟﺍﻮﺗ ﻲﺘﻟﺍ ﺔﻠﻜﺸﻤﻠﻟ ﻞﺤﻟﺍ ﻚﻟ ﻡﺪﻘﻳ ﻑﻮﺳﻭ .Conciergeﺭﺯ ﻰﻠﻋ ﺓﺪﺣﺍﻭ
+ .ﺖﻨﻛ ﺎﻤﻨﻳﺃ ،ﻚﻔﺗﺎﻫ<br><br>.ﻚﺗﺪﻋﺎﺴﻣ ﻦﻣ ﻦﻜﻤﺘﺘﺳ Vertu ﻥﺄﺑ ﻕﻮﺛﻮﻟﺍ ﻚﻨﻜﻤﻳ ،ﻢﻟﺎﻌﻟﺍ ﻲﻓ ﺖﻨﻛ ﺎﻤﻨﻳﺃ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+		</categorie>
+		
+	</categories>
+	
+	<!-- category thumbs -->
+	<categorietypes>
+		<category id="category0">
+			<title><![CDATA[ﻢﻴﻤﺼﺘﻟﺍ]]></title>
+			<url><![CDATA[ﻢﻴﻤﺼﺘﻟﺍ]]></url>
+		</category>
+		<category id="category1">
+			<title><![CDATA[ﺓﺎﻴﺤﻟﺍ ﻂﻤﻧ]]></title>
+			<url><![CDATA[ﺓﺎﻴﺤﻟﺍ ﻂﻤﻧ]]></url>
+		</category>
+		<category id="category2">
+			<title><![CDATA[ءﺍﺩﻷﺍ]]></title>
+			<url><![CDATA[ءﺍﺩﻷﺍ]]></url>
+		</category>
+	</categorietypes>
+	
+	<!-- footer -->
+	<footer>
+		<!-- EXPERIENCE MENU -->
+		<item id="bg3" type="ExMenuType">
+			<title><![CDATA[bg3]]></title>
+			<url></url>
+		</item>
+		
+		<item id="lifestyle" x="243" y="67" type="ExMenuType">
+			<title><![CDATA[ﺓﺎﻴﺤﻟﺍ ﻂﻤﻧ]]></title>
+			<url></url>
+		</item>
+		<item id="performance" x="405" y="67" type="ExMenuType">
+			<title><![CDATA[ءﺍﺩﻷﺍ]]></title>
+			<url></url>
+		</item>
+		<item id="design" x="567" y="67" type="ExMenuType">
+			<title><![CDATA[ﻢﻴﻤﺼﺘﻟﺍ]]></title>
+			<url></url>
+		</item>
+		<!-- EXPERIENCE MENU -->
+		
+		<!-- COLLECTION MENU -->
+		<item id="bg2" type="SpMenuType">
+			<title><![CDATA[bg2]]></title>
+			<url></url>
+		</item>
+		<item id="specifications" x="324 " y="67" type="SpMenuType">
+			<title><![CDATA[ﺕﺎﻔﺻﺍﻮﻤﻟﺍ]]></title>
+			<url></url>
+		</item>
+		<item id="range" x="486" y="67" type="SpMenuType">
+			<title><![CDATA[ﺔﻋﻮﻤﺠﻤﻟﺍ]]></title>
+			<url></url>
+		</item>
+		<!-- COLLECTION MENU -->
+		
+		<!-- MAIN MENU -->
+		<item id="bg" type="bg">
+			<title><![CDATA[bg]]></title>
+			<url></url>
+		</item>
+		<item id="changelanguage"  type="PopUpComboBox" x="0" y="0">
+			<title><![CDATA[ﺔﻴﺑﺮﻌﻟﺍ]]></title>
+			<option lang="ar" font="EngraversGothic BT"><![CDATA[ar]]></option>
+			
+			<option lang="zh" font="EngraversGothic BT"><![CDATA[简体中文]]></option>
+			<option lang="ru" font="EngraversGothic BT"><![CDATA[Русский]]></option>
+			<!--  
+			
+			-->
+			<option lang="it" font="EngraversGothic BT"><![CDATA[Italian]]></option>
+			<option lang="de" font="EngraversGothic BT"><![CDATA[Deutsch]]></option>
+			<option lang="fr" font="EngraversGothic BT"><![CDATA[Français]]></option>
+			<option lang="en" font="EngraversGothic BT"><![CDATA[English]]></option>
+		</item>
+		
+		<item id="register" x="162" y="0">
+			<title><![CDATA[ﻙﺍﺮﺘﺷﻻﺍ]]></title>
+			<url></url>
+		</item>
+		<item id="boutiques" x="324" y="0" >
+			<title><![CDATA[ﺕﺎﻜﻴﺗﻮﺒﻟﺍ]]></title>
+			<url></url>
+		</item>
+		<item id="collection" x="486" y="0">
+			<title><![CDATA[ﺔﻋﻮﻤﺠﻤﻟﺍ]]></title>
+			<url></url>
+		</item>
+			
+		<item id="experiencethephone" x="648 " y="0">
+			<title><![CDATA[ﺓﺮﺒﺨﻟﺍ]]></title>
+			<url></url>
+		</item>
+		<!-- MAIN MENU -->
+		
+		<!-- FOOTER MENU -->
+		<item id="vertu_dot_com" x="29" y="45" type="LowMenuType">
+			<title><![CDATA[VERTU.COM]]></title>
+			<url></url>
+		</item>
+		<!-- FOOTER MENU -->
+		
+		
+	</footer> 
+	<buttons>
+		<close><![CDATA[ﻕﻼﻏﺇ]]></close>
+		<more><![CDATA[ﺪﻳﺰﻤﻟﺍ ﺃﺮﻗﺍ]]></more>
+		<hide><![CDATA[ءﺎﻔﺧﺇ]]></hide>
+	</buttons>
+	
+</content>

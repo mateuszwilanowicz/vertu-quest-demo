@@ -1,0 +1,25 @@
+zh_fonts.swf Movie Report
+--------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1280    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2009-09-04T14:41:02+01:00</xmp:CreateDate> <xmp:MetadataDate>2010-12-01T10:18:42Z</xmp:MetadataDate> <xmp:ModifyDate>2010-12-01T10:18:42Z</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:11C6955F34FDDF11A045FBBF4505CEBC</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:11C6955F34FDDF11A045FBBF4505CEBC</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:880ABE1C5F99DE11A6D3FAF1B820388A</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:FD3C3EF5C7A6DF11A014896D215E4FA2</stRef:instanceID> <stRef:documentID>xmp.did:FD3C3EF5C7A6DF11A014896D215E4FA2</stRef:documentID> <stRef:originalDocumentID>xmp.did:880ABE1C5F99DE11A6D3FAF1B820388A</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        3388115        3388115    Scene 1 (AS 3.0 Classes Export Frame)
+      2              2        3388117    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                  1463
+
+ActionScript Bytes    Location
+------------------    --------
+              1463    Scene 1:Frame 1
+
+
+
+

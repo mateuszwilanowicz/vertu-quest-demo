@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<!-- modules -->
+	<categories>
+		<categorie id="category0">
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[设计]]></title>
+				<name><![CDATA[设计]]></name>
+				<image path="design_lp.jpg"  />
+				<copy><![CDATA[<span class="en_copy">Constellation Quest </span>以其低调的优雅风格尽显自信。]]></copy>
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[领先设计]]></title>
+				<name><![CDATA[领先设计]]></name>
+				<copy><![CDATA[从电池盖采用的顶级缝制皮革，到内部经机械车磨的优雅装饰，处处彰显出该手机独特的设计传统。<br><br>手工制造于英国，并签下代表荣誉的工匠姓名，品质臻于完美。最后这道工序是对 <span class="en_copy">Vertu</span>精髓的诠释：无限激情以及对细节的精益求精。]]></copy>
+				<video path="pioneering_design_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[蓝宝石之海]]></title>
+				<name><![CDATA[蓝宝石之海]]></name>
+				<copy><![CDATA[<span class="en_copy">Vertu</span> 坚持只选用顶级原料。<span class="en_copy">Constellation Quest</span> 的手机表面以“蓝宝石之海”制成，整个流程需要长达两周时间。至于手机键盘，每个蓝宝石按键都单独打磨并切割成形，整套键盘的加工过程长达 <span class="en_copy">25</span> 个小时。]]></copy>
+				<video path="sea_of_sapphire_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[皮革]]></title>
+				<name><![CDATA[皮革]]></name>
+				<copy><![CDATA[皮革均由手工抛光，触感柔滑、毫无瑕疵。手机电池盖上所用的皮革都经千挑万选、反复斟酌，以确保皮革纹理完美匹配。甚至皮革所用的染色剂也要严格检验，以确保不会影响手机收讯性能。]]></copy>
+				<video path="leather_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[陶瓷]]></title>
+				<name><![CDATA[陶瓷]]></name>
+				<copy><![CDATA[特别设计的耳枕造型完美贴合蓝宝石键盘和屏幕的起伏，陶瓷材质更赋予其无瑕质感。<br><br>耳枕周围线条滑润而又充满张力的精钢坠饰更强调了手机设计的整体感。
+]]></copy>
+				<video path="ceramic_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+		</categorie>
+		
+		<categorie id="category1">
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[生活服务]]></title>
+				<name><![CDATA[生活服务]]></name>
+				<image path="lifestyle_lp.jpg"  />
+				<copy><![CDATA[拥有一款 <span class="en_copy">Vertu Constellation Quest</span>，绝不仅仅意味着拥有一部手机。<br><br>Vertu 在这个繁杂世界里，为您带来具有独到见解、独立编撰同时与您息息相关的生活服务，以确保您的生活井然有序。只需拿起您的 Vertu 手机，即可获得此项专属服务，并开启更多惊喜。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU 私人助理服务]]></title>
+				<name><![CDATA[VERTU 私人助理服务]]></name>
+				<image path="vertu_concierge.jpg"  />
+				<copy><![CDATA[<span class="en_copy">Vertu</span> 私人助理服务为您提供专属的生活服务，您只需轻按 <span class="en_copy">Vertu</span> 手机上的专属按键便可立即接通。<br><br>这项服务，无论时间地点，支持多种语言，专为满足您的需求而设，并可安排多种独特的活动机会供您体验。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy3">
+				<title><![CDATA[威尼斯的周末]]></title>
+				<name><![CDATA[威尼斯的周末]]></name>
+				<image path="weekend_in_venice.jpg"  />
+				<copy><![CDATA[试想一个世界：在这里，您只需轻触按钮，即可立刻联络具备全面知识、丰富经验和大量人脉的全球化专家团队。自从 Vertu 私人助理服务建立以来，我们已为 <span class="en_copy">Vertu</span> 贵宾实现了多种多样的需求。<br><br>有一天，一对正在威尼斯过浪漫周末的夫妇，在去吃晚饭的路上，经过了一家珠宝店。这家珠宝店的橱窗中，陈列着一副精美的耳环。丈夫觉得他们晚餐就要迟到了，因此不让妻子进店询问详情，结果两人争执起来。<br><br>当这对夫妇回到家中，丈夫感到十分抱歉，于是他联系了 <span class="en_copy">Vertu</span> 私人助理服务，试看他们能不能帮他买到那副耳环。遗憾的是，他只记得那个珠宝店坐落在去餐厅的路上，并且有个黄色雨棚。<span class="en_copy">Vertu</span> 私人助理服务联络了一位当地专家去找寻这家店。这位专家最终找到了地址，并代表这位丈夫买下了那副耳环。他的妻子喜出望外。<br><br><br><br>]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[与大师对弈]]></title>
+				<name><![CDATA[与大师对弈]]></name>
+				<image path="the_chess_game.jpg"  />
+				<copy><![CDATA[试想一个世界：在这里，您只需轻触按钮，即可立刻联络具备全面知识、丰富经验和大量人脉的全球化专家团队。自从 Vertu 私人助理服务建立以来，我们已为 Vertu 贵宾实现了多种多样的需求。<br><br>一位用户请求 <span class="en_copy">Vertu</span> 私人助理服务为一位国际象棋迷安排一份特殊的生日礼物 ——<span class="en_copy">Vertu</span> 为其送上了一场与国际象棋大师的对弈。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[完美婚礼]]></title>
+				<name><![CDATA[完美婚礼]]></name>
+				<image path="the_wedding.jpg"  />
+				<copy><![CDATA[试想一个世界：在这里，您只需轻触按钮，即可立刻联络具备全面知识、丰富经验和大量人脉的全球化专家团队。自从 <span class="en_copy">Vertu</span> 私人助理服务建立以来，我们已为 Vertu 贵宾实现了多种多样的需求。<br><br>一对伦敦的夫妇想要在他们的婚礼上使用一只大象。<span class="en_copy">Vertu</span> 私人助理服务一向满足来自不同文化的多样化需求。这个请求虽然极其特别，但我们还是成功将其实现了。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[求婚]]></title>
+				<name><![CDATA[求婚]]></name>
+				<image path="the_proposal.jpg"  />
+				<copy><![CDATA[试想一个世界：在这里，您只需轻触按钮，即可立刻联络具备全面知识、丰富经验和大量人脉的全球化专家团队。自从 <span class="en_copy">Vertu</span> 私人助理服务建立以来，我们已为 <span class="en_copy">Vertu</span> 贵宾实现了多种多样的需求。<br><br>一个年轻男子准备向女友求婚，他想要计划一个特别的夜晚。<span class="en_copy">Vertu</span> 私人助理服务为他安排好了一切，甚至包括当他拿出订婚戒指时，现场放飞蝴蝶这一特殊要求。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU 城市简介]]></title>
+				<name><![CDATA[VERTU 城市简介]]></name>
+				<image path="lifestyle_cityBrief.jpg"  />
+				<copy><![CDATA[Vertu 城市简介是一系列独立编辑的城市指南。每个简介都经过了精心规划，并当您到达该地时，自动呈现在您的手机上。它将为您提供在旅行期间餐饮游玩的最佳建议。这项专属服务覆盖了超过 <span class="en_copy">140</span> 个目的地城市。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU SELECT]]></title>
+				<name><![CDATA[VERTU SELECT]]></name>
+				<image path="vertu_select.jpg"  />
+				<copy><![CDATA[Vertu Select 根据您所在的地区、您的偏好和兴趣，提供量身定制的原创文章，启发灵感、丰富资讯、娱乐生活。所有文章均由精选的专家和机构撰写。<br><br><span class="en_copy">Vertu Select</span> 的文章标题将通过<br><span class="en_copy">Constellation Quest</span> 的新闻源窗口显示在屏幕上，方便您阅读。]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+		</categorie>
+
+		<categorie id="category2">			
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[性能]]></title>
+				<name><![CDATA[性能]]></name>
+				<image path="performance_lp.jpg"  />
+				<copy><![CDATA[<span class="en_copy">Constellation Quest</span> 是 <span class="en_copy">Vertu</span> 迄今功能最丰富的一款手机，专为真正的世界公民而设计。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="false" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[专属铃声]]></title>
+				<name><![CDATA[专属铃声]]></name>
+				<video path="exclusive_ringtones_VERTU_Quest_zh.flv" />
+				<copy><![CDATA[从来电到提示铃音， Constellation Quest 的所有声音效果均由享誉国际的青年作曲家和指挥家本杰明·沃尔费什亲自谱写并指挥。乐曲由伦敦交响乐团演奏并录音。<br><br>本杰明专为 <span class="en_copy">Constellation Quest</span> 谱写了一部经典当代派音乐作品“<span class="en_copy">Constellation</span> 之舞”，而手机的来电到提示铃音全都来自这一创作曲目。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0" >
+				<title><![CDATA[精确时间 & 双时区时间]]></title>
+				<name><![CDATA[精确时间 & 双时区时间]]></name>
+				<video path="accurate_dual_time_zone_VERTU_Quest.flv" onfinish="clock_animation.swf"/>
+				<copy><![CDATA[当您出国旅行时，手机主屏幕显示的时间将自动调整成为您选定的目的地时间，而您家乡的时间也将同时显示。此项功能需要手机开通数据连接。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[蓝宝石按键]]></title>
+				<name><![CDATA[蓝宝石按键]]></name>
+				<video path="sapphire_keys_VERTU_Quest.flv" />
+				<copy><![CDATA[<span class="en_copy">Vertu</span> 手机键盘的独特外观和超凡触感一向是 Vertu 引以为荣的特色。此款 <span class="en_copy">Constellation Quest</span> 也不例外。每个蓝宝石按键都采用金刚石粉和橄榄油单独打磨并切割成形，加工过程长达 <span class="en_copy">25</span> 个小时。打磨切割后，这些按键被覆盖以多层透明丝网印膜，从而在背光亮起，光线穿过 0.25 毫米激光微孔时，完美搭配皮革和陶瓷的颜色。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[蓝宝石屏幕]]></title>
+				<name><![CDATA[蓝宝石屏幕]]></name>
+				<video path="sapphire_screen_VERTU_Quest.flv" />
+				<copy><![CDATA[制造如此非凡的屏幕，需要采用最纯净、最清透的蓝宝石进行加工。这些蓝宝石是为了满足 <span class="en_copy">Vertu</span>  的要求而专门生成的。每个屏幕都需经过特殊的处理和抛光，以达到晶莹无瑕的质感。只有最有经验的工程师和抛光师才能做得到这一点。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU.ME]]></title>
+				<name><![CDATA[VERTU.ME]]></name>
+				<image path="vertu_me.jpg"  />
+				<copy><![CDATA[<span class="en_copy">Vertu</span> 确保您所需的信息永远触手可及。 <span class="en_copy">Vertu.Me</span> 账户是为 <span class="en_copy">Vertu</span> 客户特别提供的个人信息管理系统，使您的个人数据在 <span class="en_copy">Vertu</span> 服务器上自动同步更新。因此，不论您通过手机、电脑还是网络进行访问，您永远可以自信地找到安全的、最新的个人信息。<br>正因如此，即使您丢失了手机也可以高枕无忧。您的数据不仅不会丢失，而且可以立即得到准确无误的恢复。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU 远程援助]]></title>
+				<name><![CDATA[<span class="en_title">VERTU</span>远程援助]]></name>
+				<image path="vertu_remote_assist.jpg"  />
+				<copy><![CDATA[<span class="en_copy">Vertu</span> 通过远程援助向您提供<span class="en_copy"> 24 </span>小时全天候技术支持。如果您需要关于手机设置或任何其它技术问题的帮助，只需轻按 <span class="en_copy">Vertu</span> 私人助理服务按键，<span class="en_copy">Vertu</span> 的技术团队将远程访问您的手机，为您解决问题。<br><br>无论您在世界的哪个角落，都可以信赖 <span class="en_copy">Vertu</span> 时刻能为您提供帮助。]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+		</categorie>
+		
+	</categories>
+	
+	<!-- category thumbs -->
+	<categorietypes>
+		<category id="category0">
+			<title><![CDATA[设计]]></title>
+			<url><![CDATA[设计]]></url>
+		</category>
+		<category id="category1">
+			<title><![CDATA[生活]]></title>
+			<url><![CDATA[生活]]></url>
+		</category>
+		<category id="category2">
+			<title><![CDATA[性能]]></title>
+			<url><![CDATA[性能]]></url>
+		</category>
+	</categorietypes>
+	
+	<!-- footer -->
+	<footer>
+		<!-- EXPERIENCE MENU -->
+		<item id="bg3" type="ExMenuType">
+			<title><![CDATA[bg3]]></title>
+			<url></url>
+		</item>
+		<item id="design" x="243" y="67" type="ExMenuType">
+			<title><![CDATA[设计]]></title>
+			<url></url>
+		</item>
+		<item id="lifestyle" x="405" y="67" type="ExMenuType">
+			<title><![CDATA[生活]]></title>
+			<url></url>
+		</item>
+		<item id="performance" x="567" y="67" type="ExMenuType">
+			<title><![CDATA[性能]]></title>
+			<url></url>
+		</item>
+		<!-- EXPERIENCE MENU -->
+		
+		<!-- COLLECTION MENU -->
+		<item id="bg2" type="SpMenuType">
+			<title><![CDATA[bg2]]></title>
+			<url></url>
+		</item>
+		<item id="range" x="324" y="67" type="SpMenuType">
+			<title><![CDATA[款式]]></title>
+			<url></url>
+		</item>
+		<item id="specifications" x="486 " y="67" type="SpMenuType">
+			<title><![CDATA[规格]]></title>
+			<url></url>
+		</item>
+		<!-- COLLECTION MENU -->
+		
+		<!-- MAIN MENU -->
+		<item id="bg" type="bg">
+			<title><![CDATA[bg]]></title>
+			<url></url>
+		</item>
+		<item id="experiencethephone" x="162 " y="0">
+			<title><![CDATA[体验]]></title>
+			<url></url>
+		</item>
+		<item id="collection" x="324" y="0">
+			<title><![CDATA[系列]]></title>
+			<url></url>
+		</item>
+		<item id="boutiques" x="486" y="0" >
+			<title><![CDATA[专卖店]]></title>
+			<url></url>
+		</item>
+		<item id="register" x="648" y="0">
+			<title><![CDATA[注册]]></title>
+			<url></url>
+		</item>
+		<item id="changelanguage"  type="PopUpComboBox" x="810" y="0">
+			<title><![CDATA[简体中文]]></title>
+			 
+			<option lang="ar" font="EngraversGothic BT"><![CDATA[ar]]></option>
+			
+			<option lang="zh" font="EngraversGothic BT"><![CDATA[简体中文]]></option>
+			<option lang="ru" font="EngraversGothic BT"><![CDATA[Русский]]></option>
+			<option lang="it" font="EngraversGothic BT"><![CDATA[Italian]]></option>
+			<option lang="de" font="EngraversGothic BT"><![CDATA[Deutsch]]></option>
+			<option lang="fr" font="EngraversGothic BT"><![CDATA[Français]]></option>
+			<option lang="en" font="EngraversGothic BT"><![CDATA[English]]></option>
+		</item>
+		<!-- MAIN MENU -->
+		
+		<!-- FOOTER MENU -->
+		<item id="vertu_dot_com" x="839" y="45" type="LowMenuType">
+			<title><![CDATA[<span class="en_footer_button_low">VERTU.COM</span>]]></title>
+			<url></url>
+		</item>
+		<!-- FOOTER MENU -->
+		
+		
+	</footer> 
+	<buttons>
+		<close><![CDATA[关闭]]></close>
+		<more><![CDATA[隐藏]]></more>
+		<hide><![CDATA[阅读更多]]></hide>
+	</buttons>
+	
+</content>

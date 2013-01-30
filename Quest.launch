@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="com.powerflasher.fdt.ui.StartDebuggerGroup">
+<stringAttribute key="PROJECT_NAME" value="Quest"/>
+<stringAttribute key="process_factory_id" value="com.powerflasher.fdt.ui.launch.fcsh.ProcessFactory"/>
+</launchConfiguration>

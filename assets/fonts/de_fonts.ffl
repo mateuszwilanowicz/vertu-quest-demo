@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="de_fonts" output="assets\fonts" format="2">
+	<font id="Arial" family="Arial" style="0" cs="1,2,3,4,5" type="0" path="">
+		<include chars="ÀàÁáÈèÉéÌìÍíÒòÓóÙùÚú«»€£ÄäÖöÜüß„“”°ÂâÆæÇçÊêËëÎîÏïÔôŒœÛû₣Å"/>
+	</font>
+</library>

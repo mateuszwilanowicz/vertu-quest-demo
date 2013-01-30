@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<countries language="cn" default="所居住国家">
+		<country code="al" name="阿尔巴尼亚"/>
+		<country code="dz" name="阿尔及利亚"/>
+		<country code="af" name="阿富汗"/>
+		<country code="ar" name="阿根廷"/>
+		<country code="ie" name="爱尔兰"/>
+		<country code="eg" name="埃及"/>
+		<country code="et" name="埃塞俄比亚"/>
+		<country code="ee" name="爱沙尼亚"/>
+		<country code="ae" name="阿拉伯联合酋长国"/>
+		<country code="aw" name="阿鲁巴"/>
+		<country code="om" name="阿曼"/>
+		<country code="ad" name="安道尔"/>
+		<country code="ao" name="安哥拉"/>
+		<country code="ai" name="安圭拉"/>
+		<country code="ag" name="安提瓜和巴布达"/>
+		<country code="au" name="澳大利亚"/>
+		<country code="at" name="奥地利"/>
+		<country code="ax" name="奥兰群岛"/>
+		<country code="mo" name="澳门"/>
+		<country code="az" name="阿塞拜疆"/>
+		<country code="bb" name="巴巴多斯"/>
+		<country code="pg" name="巴布亚新几内亚"/>
+		<country code="bs" name="巴哈马"/>
+		<country code="by" name="白俄罗斯"/>
+		<country code="pk" name="巴基斯坦"/>
+		<country code="py" name="巴拉圭"/>
+		<country code="ps" name="巴勒斯坦"/>
+		<country code="bh" name="巴林"/>
+		<country code="bm" name="百慕大"/>
+		<country code="pa" name="巴拿马"/>
+		<country code="bg" name="保加利亚"/>
+		<country code="br" name="巴西"/>
+		<country code="mp" name="北马里亚纳群岛"/>
+		<country code="bj" name="贝宁"/>
+		<country code="be" name="比利时"/>
+		<country code="is" name="冰岛"/>
+		<country code="pr" name="波多黎哥"/>
+		<country code="pl" name="波兰"/>
+		<country code="bo" name="玻利维亚"/>
+		<country code="bz" name="伯利兹"/>
+		<country code="ba" name="波斯尼亚和黑塞哥维那"/>
+		<country code="bw" name="博茨瓦纳"/>
+		<country code="bt" name="不丹"/>
+		<country code="bf" name="布基纳法索"/>
+		<country code="bi" name="布隆迪"/>
+		<country code="bv" name="布维岛"/>
+		<country code="kp" name="朝鲜"/>
+		<country code="gq" name="赤道几内亚"/>
+		<country code="dk" name="丹麦"/>
+		<country code="de" name="德国"/>
+		<country code="tl" name="东帝汶"/>
+		<country code="tg" name="多哥"/>
+		<country code="do" name="多米尼加共和国"/>
+		<country code="dm" name="多米尼克"/>
+		<country code="ec" name="厄瓜多尔"/>
+		<country code="er" name="厄立特里亚"/>
+		<country code="ru" name="俄罗斯"/>
+		<country code="fr" name="法国"/>
+		<country code="fo" name="法罗群岛"/>
+		<country code="va" name="梵蒂冈"/>
+		<country code="pf" name="法属玻利尼西亚"/>
+		<country code="gf" name="法属圭亚那"/>
+		<country code="tf" name="法属南部领地"/>
+		<country code="mf" name="法属圣马丁"/>
+		<country code="fj" name="斐济"/>
+		<country code="ph" name="菲律宾"/>
+		<country code="fi" name="芬兰"/>
+		<country code="cv" name="佛得角共和国"/>
+		<country code="fk" name="福克兰群岛（马尔维纳斯群岛）"/>
+		<country code="gm" name="冈比亚"/>
+		<country code="cg" name="刚果共和国"/>
+		<country code="cd" name="刚果民主共和国"/>
+		<country code="gl" name="格陵兰"/>
+		<country code="gd" name="格林纳达"/>
+		<country code="ge" name="格鲁吉亚"/>
+		<country code="co" name="哥伦比亚"/>
+		<country code="gg" name="根西"/>
+		<country code="cr" name="哥斯达黎加"/>
+		<country code="gp" name="瓜德罗普"/>
+		<country code="gu" name="关岛"/>
+		<country code="cu" name="古巴"/>
+		<country code="gy" name="圭亚那"/>
+		<country code="ht" name="海地"/>
+		<country code="kr" name="韩国"/>
+		<country code="hm" name="赫德岛和麦克唐纳群岛"/>
+		<country code="me" name="黑山共和国"/>
+		<country code="nl" name="荷兰"/>
+		<country code="an" name="荷属安的列斯"/>
+		<country code="hn" name="洪都拉斯"/>
+		<country code="kz" name="哈萨克斯坦"/>
+		<country code="ca" name="加拿大"/>
+		<country code="gh" name="加纳"/>
+		<country code="kh" name="柬埔寨"/>
+		<country code="ga" name="加蓬"/>
+		<country code="dj" name="吉布提"/>
+		<country code="cz" name="捷克共和国"/>
+		<country code="kg" name="吉尔吉斯共和国"/>
+		<country code="ki" name="基里巴斯共和国"/>
+		<country code="zw" name="津巴布韦"/>
+		<country code="gw" name="几内亚比绍"/>
+		<country code="gn" name="几内亚"/>
+		<country code="ky" name="开曼群岛"/>
+		<country code="cm" name="喀麦隆"/>
+		<country code="qa" name="卡塔尔"/>
+		<country code="cc" name="科科斯（基林）群岛"/>
+		<country code="hr" name="克罗地亚"/>
+		<country code="km" name="科摩罗群岛"/>
+		<country code="ke" name="肯尼亚"/>
+		<country code="ci" name="科特迪瓦"/>
+		<country code="kw" name="科威特"/>
+		<country code="ck" name="库克群岛"/>
+		<country code="ls" name="莱索托"/>
+		<country code="la" name="老挝"/>
+		<country code="lv" name="拉脱维亚"/>
+		<country code="lb" name="黎巴嫩"/>
+		<country code="lr" name="利比里亚"/>
+		<country code="ly" name="利比亚"/>
+		<country code="li" name="列支敦士登"/>
+		<country code="lt" name="立陶宛"/>
+		<country code="re" name="留尼汪岛"/>
+		<country code="ro" name="罗马尼亚"/>
+		<country code="lu" name="卢森堡"/>
+		<country code="rw" name="卢旺达"/>
+		<country code="mg" name="马达加斯加"/>
+		<country code="mv" name="马尔代夫"/>
+		<country code="mt" name="马耳他"/>
+		<country code="my" name="马来西亚"/>
+		<country code="mw" name="马拉维"/>
+		<country code="ml" name="马里"/>
+		<country code="mu" name="毛里求斯"/>
+		<country code="mr" name="毛里塔尼亚"/>
+		<country code="mk" name="马其顿共和国"/>
+		<country code="mh" name="马绍尔群岛"/>
+		<country code="mq" name="马提尼克岛"/>
+		<country code="yt" name="马约特岛"/>
+		<country code="um" name="美国本土外小岛屿"/>
+		<country code="us" name="美国"/>
+		<country code="vi" name="美属维尔京群岛"/>
+		<country code="as" name="美属萨摩亚群岛"/>
+		<country code="mn" name="蒙古"/>
+		<country code="bd" name="孟加拉"/>
+		<country code="ms" name="蒙特塞拉特"/>
+		<country code="mm" name="缅甸"/>
+		<country code="fm" name="密克罗尼西亚"/>
+		<country code="pe" name="秘鲁"/>
+		<country code="md" name="摩尔多瓦"/>
+		<country code="ma" name="摩洛哥"/>
+		<country code="mc" name="摩纳哥"/>
+		<country code="mz" name="莫桑比克"/>
+		<country code="mx" name="墨西哥"/>
+		<country code="na" name="纳米比亚"/>
+		<country code="za" name="南非"/>
+		<country code="aq" name="南极洲"/>
+		<country code="gs" name="南乔治亚和南桑德威奇群岛"/>
+		<country code="nr" name="瑙鲁"/>
+		<country code="np" name="尼泊尔"/>
+		<country code="ni" name="尼加拉瓜"/>
+		<country code="ne" name="尼日尔"/>
+		<country code="ng" name="尼日利亚"/>
+		<country code="nu" name="纽埃"/>
+		<country code="nf" name="诺福克岛"/>
+		<country code="no" name="挪威"/>
+		<country code="pw" name="帕劳"/>
+		<country code="pn" name="皮特凯恩群岛"/>
+		<country code="pt" name="葡萄牙"/>
+		<country code="jp" name="日本"/>
+		<country code="se" name="瑞典"/>
+		<country code="ch" name="瑞士"/>
+		<country code="rs" name="塞尔维亚和黑山"/>
+		<country code="sl" name="塞拉利昂"/>
+		<country code="sn" name="塞内加尔"/>
+		<country code="cy" name="塞浦路斯"/>
+		<country code="sc" name="塞舌尔"/>
+		<country code="ws" name="萨摩亚"/>
+		<country code="sv" name="萨尔瓦多"/>
+		<country code="sa" name="沙特阿拉伯"/>
+		<country code="bl" name="圣巴托洛缪岛"/>
+		<country code="cx" name="圣诞岛"/>
+		<country code="st" name="圣多美岛和普林西比岛"/>
+		<country code="sh" name="圣赫勒拿岛"/>
+		<country code="kn" name="圣基茨和尼维斯"/>
+		<country code="lc" name="圣卢西亚"/>
+		<country code="sm" name="圣马力诺"/>
+		<country code="pm" name="圣皮埃尔和密克隆"/>
+		<country code="vc" name="圣文森特和格林纳丁斯"/>
+		<country code="lk" name="斯里兰卡"/>
+		<country code="sk" name="斯洛伐克"/>
+		<country code="si" name="斯洛文尼亚"/>
+		<country code="sj" name="斯瓦尔巴特群岛"/>
+		<country code="sz" name="斯威士兰"/>
+		<country code="sd" name="苏丹"/>
+		<country code="sr" name="苏里南"/>
+		<country code="sb" name="所罗门群岛"/>
+		<country code="so" name="索马里"/>
+		<country code="th" name="泰国"/>
+		<country code="tj" name="塔吉克斯坦"/>
+		<country code="to" name="汤加"/>
+		<country code="tz" name="坦桑尼亚"/>
+		<country code="tc" name="特克斯和凯科斯群岛"/>
+		<country code="tt" name="特立尼达和多巴哥"/>
+		<country code="tr" name="土耳其"/>
+		<country code="tm" name="土库曼斯坦"/>
+		<country code="tn" name="突尼斯"/>
+		<country code="tk" name="托克劳"/>
+		<country code="tv" name="图瓦卢"/>
+		<country code="wf" name="瓦利斯和富图纳群岛"/>
+		<country code="vu" name="瓦努阿图"/>
+		<country code="gt" name="危地马拉"/>
+		<country code="ve" name="委内瑞拉"/>
+		<country code="bn" name="文莱"/>
+		<country code="ug" name="乌干达"/>
+		<country code="ua" name="乌克兰"/>
+		<country code="uy" name="乌拉圭"/>
+		<country code="uz" name="乌兹别克斯坦"/>
+		<country code="hk" name="香港"/>
+		<country code="es" name="西班牙"/>
+		<country code="gr" name="希腊"/>
+		<country code="sg" name="新加坡"/>
+		<country code="nc" name="新喀里多尼亚岛"/>
+		<country code="nz" name="新西兰"/>
+		<country code="hu" name="匈牙利"/>
+		<country code="eh" name="西撒哈拉"/>
+		<country code="sy" name="叙利亚"/>
+		<country code="jm" name="牙买加"/>
+		<country code="am" name="亚美尼亚"/>
+		<country code="ye" name="也门"/>
+		<country code="it" name="意大利"/>
+		<country code="iq" name="伊拉克"/>
+		<country code="ir" name="伊朗"/>
+		<country code="id" name="印度尼西亚"/>
+		<country code="in" name="印度"/>
+		<country code="im" name="英国属地曼岛"/>
+		<country code="gb" name="英国"/>
+		<country code="vg" name="英属维尔京群岛"/>
+		<country code="io" name="英属印度洋领地"/>
+		<country code="il" name="以色列"/>
+		<country code="jo" name="约旦"/>
+		<country code="vn" name="越南"/>
+		<country code="zm" name="赞比亚"/>
+		<country code="je" name="泽西岛"/>
+		<country code="td" name="乍得"/>
+		<country code="gi" name="直布罗陀"/>
+		<country code="cl" name="智利"/>
+		<country code="cf" name="中非共和国"/>
+		<country code="cn" name="中国"/>
+		<country code="tw" name="台湾"/>
+	</countries>
+	<titleList language="cn" default="称谓">
+	  <item name="先生">先生</item> 
+	  <item name="夫人">夫人</item> 
+	  <item name="小姐">小姐</item> 
+	  <item name="其它">其它</item> 
+	</titleList>
+	
+	
+	<title><![CDATA[注册]]></title>
+	<copy>
+		<![CDATA[Vertu 邀请您率先了解全新 Constellation Quest 系列的相关信息，以及其它精选 Vertu 手机产品和服务。]]>
+	</copy>
+	<formtitle><![CDATA[请完成填写您的个人信息。]]></formtitle>
+	<firstname><![CDATA[名]]></firstname>
+	<lastname><![CDATA[姓]]></lastname>
+	<email><![CDATA[电子邮件地址]]></email>
+	<confirmemail><![CDATA[确认电子邮件地址]]></confirmemail>
+	<privacy><![CDATA[<span class="zh_copy">如果您点击“提交”，便表明您已接受我们的隐私政策。如需浏览隐私政策，<a href="http://www.vertu.com/in-cn/#in-cn_legal-notices/privacy-policy" class="underline_link" target="_blank">请点击此处</a>。</span>]]></privacy>
+	<thankyoutitle><![CDATA[感谢您的注册及对全新 Constellation Quest 系列的兴趣。<br><br>您现在已开始率先接收 Vertu 的专属新闻。]]></thankyoutitle>
+	
+	<submit><![CDATA[<span class="zh_copy">提交</span>]]></submit>
+	<errorinvalidemail><![CDATA[<span class="zh_error">请确保您的电子邮件地址正确</span>]]></errorinvalidemail>
+	<erroremailnomatch><![CDATA[<span class="zh_error">请确保您的电子邮件地址正确</span>]]></erroremailnomatch>
+	<errorfillallfields><![CDATA[<span class="zh_error">请确认您已经提供所<br>有必要的注册信息</span>]]></errorfillallfields>
+</root>

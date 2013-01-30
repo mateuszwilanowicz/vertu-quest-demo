@@ -1,0 +1,623 @@
+/*  English, German, French  */
+.en_heading {
+	font-family: "EngraversGothicBT";
+	font-size: 18;
+	color: #999999;
+	/* letter-spacing: 3; */
+}
+
+.en_title {
+	font-family: "EngraversGothicBT";
+	font-size: 16;
+	color: #D7D7D7;
+	letterSpacing: 3;
+}
+
+.en_input {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #999999;
+	letterSpacing: 3;
+}
+
+.en_copy {
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.en_link{
+	text-decoration:underline;
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.en_dd {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #D7D7D7;
+	letter-spacing: 1.2;
+}
+
+.en_footer_button {
+	font-family: "EngraversGothicBT";
+	font-size: 12px;
+	color: #999999;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+
+.en_category_menu {
+	font-family: "EngraversGothicBT";
+	font-size: 14px;
+	color: #D7D7D7;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.en_footer_button_low {
+	font-family: "EngraversGothicBT";
+	font-size: 11px;
+	color: #424242;
+	letterSpacing: 2px;
+	textAlign: center;
+}
+/*  Italian  */
+.it_heading {
+	font-family: "EngraversGothicBT";
+	font-size: 18;
+	color: #999999;
+	/* letter-spacing: 3; */
+}
+
+.it_title {
+	font-family: "EngraversGothicBT";
+	font-size: 16;
+	color: #D7D7D7;
+	letterSpacing: 3;
+}
+
+.it_input {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #999999;
+	letterSpacing: 3;
+}
+
+.it_copy {
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+.it_link{
+	text-decoration:underline;
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.it_dd {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #D7D7D7;
+	letter-spacing: 1.2;
+}
+
+.it_footer_button {
+	font-family: "EngraversGothicBT";
+	font-size: 12px;
+	color: #999999;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+
+.it_category_menu {
+	font-family: "EngraversGothicBT";
+	font-size: 14px;
+	color: #D7D7D7;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.it_footer_button_low {
+	font-family: "EngraversGothicBT";
+	font-size: 11px;
+	color: #424242;
+	letterSpacing: 2px;
+	textAlign: center;
+}
+/*  German  */
+.de_heading {
+	font-family: "EngraversGothicBT";
+	font-size: 18;
+	color: #999999;
+	/* letter-spacing: 3; */
+}
+
+.de_title {
+	font-family: "EngraversGothicBT";
+	font-size: 16;
+	color: #D7D7D7;
+	letterSpacing: 3;
+}
+
+.de_input {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #999999;
+	letterSpacing: 3;
+}
+.de_error {
+	font-family: "Arial";
+	font-style: "Regular";
+	font-size: 8;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 0px;
+}
+.de_copy {
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+.de_link{
+	text-decoration:underline;
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.de_dd {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #D7D7D7;
+	letter-spacing: 1.2;
+}
+
+.de_footer_button {
+	font-family: "EngraversGothicBT";
+	font-size: 12px;
+	color: #999999;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+
+.de_category_menu {
+	font-family: "EngraversGothicBT";
+	font-size: 14px;
+	color: #D7D7D7;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.de_footer_button_low {
+	font-family: "EngraversGothicBT";
+	font-size: 11px;
+	color: #424242;
+	letterSpacing: 2px;
+	textAlign: center;
+}
+
+.de_privacy_copy{
+	line-height:15px;
+	
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.5;
+	leading: 8px;
+	text-decoration:none;
+}
+
+/*  French  */
+.fr_heading {
+	font-family: "EngraversGothicBT";
+	font-size: 18;
+	color: #999999;
+	/* letter-spacing: 3; */
+}
+.fr_error {
+	font-family: "Arial";
+	font-style: "Regular";
+	font-size: 9;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 0px;
+}
+.fr_title {
+	font-family: "EngraversGothicBT";
+	font-size: 16;
+	color: #D7D7D7;
+	letterSpacing: 3;
+}
+
+.fr_input {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #999999;
+	letterSpacing: 3;
+}
+
+.fr_copy {
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+.fr_link{
+	text-decoration:underline;
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+
+.fr_dd {
+	font-family: "EngraversGothicBT";
+	font-size: 12;
+	color: #D7D7D7;
+	letter-spacing: 1.2;
+}
+
+.fr_footer_button {
+	font-family: "EngraversGothicBT";
+	font-size: 12px;
+	color: #999999;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+
+.fr_category_menu {
+	font-family: "EngraversGothicBT";
+	font-size: 14px;
+	color: #D7D7D7;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.fr_footer_button_low {
+	font-family: "EngraversGothicBT";
+	font-size: 11px;
+	color: #424242;
+	letterSpacing: 2px;
+	textAlign: center;
+}
+
+
+
+/*  Simplified Chinese  */
+.zh_heading {
+	font-family: "DFPHeiW7GB";
+	font-size: 18;
+	color: #999999;
+	/* letter-spacing: 3; */
+}
+
+.zh_title {
+	font-family: "DFPHeiW7GB";
+	font-size: 18;
+	color: #D7D7D7;
+	letterSpacing: 3;
+}
+
+
+
+.zh_copy {
+	font-family: "DFPHeiW7GB";
+	font-style: "Regular";
+	font-size: 14;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.zh_error {
+	font-family: "DFPHeiW7GB";
+	font-style: "Regular";
+	font-size: 10;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 5px;
+}
+
+.zh_privacy_copy {
+	font-family: "DFPHeiW7GB";
+	font-style: "Regular";
+	font-size: 14;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+.zh_link{
+	text-decoration:underline;
+	font-family: "DFPHeiW7GB";
+	font-style: "Regular";
+	font-size: 14;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.zh_dd {
+	font-family: "DFPHeiW7GB";
+	font-size: 12;
+	color: #D7D7D7;
+	letter-spacing: 1.2;
+}
+
+.zh_footer_button {
+	font-family: "DFPHeiW7GB";
+	font-size: 12px;
+	color: #999999;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.zh_category_menu {
+	font-family: "DFPHeiW7GB";
+	font-size: 14px;
+	color: #D7D7D7;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.zh_footer_button_low {
+	font-family: "DFPHeiW7GB";
+	font-size: 11px;
+	color: #424242;
+	letterSpacing: 2px;
+	textAlign: center;
+}
+/*  Japanese  */
+.ja_heading {
+	font-family: "MSPGothic";
+	font-size: 18;
+	color: #999999;
+}
+
+.ja_copy {
+	font-family: "MSPGothic";
+	font-size: 12;
+	color: #FEFEFE;
+}
+
+.ja_footer_button {
+	font-family: "MSPGothic";
+	font-size: 14;
+	color: #999999;
+}
+
+/*  Russian  */
+
+
+.ru_heading {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 13px;
+	color: #999999;
+	/* letter-spacing: 3; */
+}
+
+.ru_title {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 13px;
+	color: #D7D7D7;
+	letterSpacing: 3;
+}
+
+.ru_input {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 11px;
+	color: #999999;
+	letterSpacing: 3;
+}
+
+.ru_copy {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 11px;
+	color: #DDDDDD;
+	letter-spacing: 0.5;
+	leading: 8px;
+}
+
+.ru_error {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 9px;
+	color: #DDDDDD;
+	letter-spacing: 0.5;
+	leading: 0px;
+}
+
+.ru_link{
+	text-decoration:underline;
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 11px;
+	color: #DDDDDD;
+	letter-spacing: 0.4;
+	leading: 8px;
+}
+
+.ru_dd {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 11px;
+	color: #D7D7D7;
+	letter-spacing: 1.2;
+}
+
+.ru_footer_button {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 11px;
+	color: #999999;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+
+.ru_category_menu {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 11px;
+	color: #D7D7D7;
+	letterSpacing: 3px;
+	textAlign: center;
+}
+
+.ru_footer_button_low {
+	font-family: "ArialMS";
+	font-style: "Regular";
+	font-size: 9px;
+	color: #424242;
+	letterSpacing: 2px;
+	textAlign: center;
+}
+
+/*  Arabic  */
+
+
+.ar_heading {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 18px;
+	color: #999999;
+	text-align:"right";
+	textAlign: right;
+	/* letter-spacing: 3; */
+}
+
+.ar_title {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 18;
+	text-align:"right";
+	color: #D7D7D7;
+	letterSpacing: 0;
+	textAlign: right;
+}
+
+.ar_input {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 14px;
+	color: #999999;
+	text-align:"right";
+	letterSpacing: 0;
+	textAlign: right;
+}
+
+.ar_copy {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 14px;
+	color: #DDDDDD;
+	letter-spacing: 0;
+	textAlign: right;
+}
+
+.ar_error {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 14px;
+	color: #DDDDDD;
+	letter-spacing: 0;
+	leading: 0px;
+	textAlign: right;
+}
+
+.ar_link{
+	text-decoration:underline;
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 14px;
+	color: #DDDDDD;
+	letter-spacing: 0;
+}
+
+.ar_dd {
+	font-family:"SimplifiedArabic";
+	font-style:"Regular";
+	font-size:14px;
+	color:#D7D7D7;
+	letter-spacing:0;
+	text-align:"right";
+	textAlign:right;
+}
+
+.ar_footer_button {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 14px;
+	color: #999999;
+	letterSpacing: 0px;
+	textAlign: center;
+}
+
+
+.ar_category_menu {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 18px;
+	color: #D7D7D7;
+	letterSpacing: 0px;
+	textAlign: center;
+}
+
+.ar_footer_button_low {
+	font-family: "SimplifiedArabic";
+	font-style: "Regular";
+	font-size: 9px;
+	color: #424242;
+	letterSpacing: 0px;
+	textAlign: center;
+}
+/* */
+.privacy_copy{
+	line-height:15px;
+	
+	font-family: "ArialFR";
+	font-style: "Regular";
+	font-size: 11;
+	color: #DDDDDD;
+	letter-spacing: 0.5;
+	leading: 8px;
+	text-decoration:none;
+}
+.underline_link{
+	 text-decoration:underline;
+}
+ 

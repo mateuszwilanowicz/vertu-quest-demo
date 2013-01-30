@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<!-- modules -->
+	<categories>
+		<categorie id="category0">
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[ДИЗАЙН]]></title>
+				<name><![CDATA[ДИЗАЙН]]></name>
+				<image path="design_lp.jpg"  />
+				<copy><![CDATA[Модель Constellation Quest отличается неброским изяществом и сдержанным стилем, выражающим уверенность в себе.]]></copy>
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[РЕВОЛЮЦИОННЫЙ ДИЗАЙН]]></title>
+				<name><![CDATA[РЕВОЛЮЦИОННЫЙ ДИЗАЙН]]></name>
+				<copy><![CDATA[Простроченная кожа тончайшей выделки на крышке батарейного отсека и элегантная гравировка внутри телефона продолжают уникальные дизайнерские традиции.<br><br>Телефон, собранный вручную в Англии и доведенный до совершенства, носит гордую подпись своего создателя. Это воплощение страсти и внимания к каждой мельчайшей детали – всего того, что составляет фирменный почерк бренда Vertu.]]></copy>
+				<video path="pioneering_design_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[«САПФИРОВАЯ ГЛАДЬ»]]></title>
+				<name><![CDATA[«САПФИРОВАЯ ГЛАДЬ»]]></name>
+				<copy><![CDATA[Компания Vertu использует только самые изысканные материалы. «Лицо» телефона Constellation Quest – это «cапфировая гладь», на изготовление которой уходит почти две недели. Шлифовка и обточка до нужной формы каждой сапфировой кнопки клавиатуры представляет собой отдельный технологический процесс, который может занять до 25 рабочих часов.]]></copy>
+				<video path="sea_of_sapphire_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[КОЖА]]></title>
+				<name><![CDATA[КОЖА]]></name>
+				<copy><![CDATA[Для отделки крышки батарейного отсека используется невероятно мягкая кожа безупречного качества, которая тщательно подбирается до абсолютного соответствия желаемой текстуре.<br><br>Даже красители для кожи проходят специальное тестирование – необходимо убедиться в том, что они не повлияют на возможность телефона принимать сигнал.]]></copy>
+				<video path="leather_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[КЕРАМИКА]]></title>
+				<name><![CDATA[КЕРАМИКА]]></name>
+				<copy><![CDATA[Крышка динамика, специально разработанная таким образом, чтобы гармонировать с довольно «весомой» клавиатурой и дисплеем, имеет идеальную поверхность, что возможно только при использовании керамики.<br><br>На фоне приятной гладкости выделяется внушительный фигурный элемент из нержавеющей стали, который выгодно подчеркивает общую плавность форм.]]></copy>
+				<video path="ceramic_VERTU_Quest.flv" />
+				<category><![CDATA[category0]]></category>
+			</module>
+			
+		</categorie>
+		
+		<categorie id="category1">
+			<module showpopup="true" type="copy2" scale="false">
+				<title><![CDATA[ПОДДЕРЖКА СТИЛЯ ЖИЗНИ]]></title>
+				<name><![CDATA[ПОДДЕРЖКА СТИЛЯ ЖИЗНИ]]></name>
+				<image path="lifestyle_lp.jpg"  />
+				<copy><![CDATA[Обладать Vertu Constellation Quest – значит иметь что-то большее, чем просто телефон.<br><br>В мире, где господствует суета, компания Vertu готова предложить Вам продуманную, независимую и столь необходимую службу поддержки по вопросам стиля жизни, идеально упорядочивающую ее течение. Все это и многое другое становится доступным с помощью телефона Vertu.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[«VERTU КОНСЬЕРЖ»]]></title>
+				<name><![CDATA[«VERTU КОНСЬЕРЖ»]]></name>
+				<image path="vertu_concierge.jpg"  />
+				<copy><![CDATA[«Vertu Консьерж» – это специализированная служба поддержки по всем вопросам досуга и стиля жизни, с которой можно связаться одним нажатием особой кнопки на телефоне Vertu.<br><br>В любой точке мира и в любое время дня и ночи Вы можете рассчитывать на консультацию на выбранном Вами языке, которая удовлетворит Ваши потребности и предоставит Вам уникальные возможности.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy3" scale="false">
+				<title><![CDATA[«VERTU КОНСЬЕРЖ»:<BR>ВЫХОДНЫЕ В ВЕНЕЦИИ]]></title>
+				<name><![CDATA[«VERTU КОНСЬЕРЖ»: ВЫХОДНЫЕ В ВЕНЕЦИИ]]></name>
+				<image path="weekend_in_venice.jpg"  />
+				<copy><![CDATA[Только представьте, что одним нажатием кнопки можно мгновенно связаться с командой опытных экспертов, располагающих огромным объемом ценной информации и полезных контактов. Предлагаем Вам ознакомиться с некоторыми из примеров выполнения желаний клиентов, поступавших в службу <br>«Vertu Консьерж» с самого момента ее основания.<br><br>Супружеская пара проводила романтический уикенд в Венеции, и в один из вечеров по пути в ресторан муж и жена проходили мимо ювелирного салона, в оконной витрине которого были выставлены серьги неописуемой красоты. Осознавая, что они и так уже опаздывают на ужин, супруг не дал своей жене возможности зайти в салон и присмотреться к товару. Все это вылилось в ссору.<br><br>По возвращении домой мужчина, одолеваемый чувством вины, обратился в службу <br>«Vertu Консьерж» с просьбой помочь ему в покупке тех самых серег. К сожалению, все, что он помнил о ювелирном салоне – это то, что там был желтый навес, и он находился на улице, ведущей к ресторану. Специалисты службы «Vertu Консьерж» связались с одним из местных экспертов, чтобы выяснить местонахождение салона. Эксперту удалось определить магазин, о котором шла речь, и купить серьги по поручению мужчины. Радости его второй половины не было предела.<br><br><br>]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[«VERTU КОНСЬЕРЖ»:<BR>ШАХМАТНЫЙ ПОЕДИНОК]]></title>
+				<name><![CDATA[«VERTU КОНСЬЕРЖ»: ШАХМАТНЫЙ ПОЕДИНОК]]></name>
+				<image path="the_chess_game.jpg"  />
+				<copy><![CDATA[Только представьте, что одним нажатием кнопки можно мгновенно связаться с командой опытных экспертов, располагающих огромным объемом ценной информации и полезных контактов. Предлагаем Вам ознакомиться с некоторыми из примеров выполнения желаний клиентов, поступавших в службу<br>«Vertu Консьерж» с самого момента ее основания.<br><br>Клиент Vertu обратился в службу<br>«Vertu Консьерж» с просьбой помочь в выборе идеального подарка для фаната игры в шахматы. В итоге была организована шахматная встреча с гроссмейстером.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[«VERTU КОНСЬЕРЖ»:<BR>СВАДЬБА]]></title>
+				<name><![CDATA[«VERTU КОНСЬЕРЖ»: СВАДЬБА]]></name>
+				<image path="the_wedding.jpg"  />
+				<copy><![CDATA[Только представьте, что одним нажатием кнопки можно мгновенно связаться с командой опытных экспертов, располагающих огромным объемом ценной информации и полезных контактов. Предлагаем Вам ознакомиться с некоторыми из примеров выполнения желаний клиентов, поступавших в службу<br>«Vertu Консьерж» с самого момента ее основания.<br><br>Будущие молодожены из Лондона обратились с просьбой найти слона для участия в их свадебном торжестве. Это просьба, пусть и весьма необычная, была выполнена, поскольку понимание всего многообразия особенностей различных культур – это конек службы «Vertu Консьерж».]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[«VERTU КОНСЬЕРЖ»:<BR>ПРЕДЛОЖЕНИЕ РУКИ И СЕРДЦА]]></title>
+				<name><![CDATA[«VERTU КОНСЬЕРЖ»: ПРЕДЛОЖЕНИЕ РУКИ И СЕРДЦА]]></name>
+				<image path="the_proposal.jpg"  />
+				<copy><![CDATA[Только представьте, что одним нажатием кнопки можно мгновенно связаться с командой опытных экспертов, располагающих огромным объемом ценной информации и полезных контактов. Предлагаем Вам ознакомиться с некоторыми из примеров выполнения желаний клиентов, поступавших в службу<br>«Vertu Консьерж» с самого момента ее основания.<br><br>Молодой человек задумал устроить особый вечер, чтобы сделать предложение своей девушке. Служба «Vertu Консьерж» взяла на себя все заботы по организации этого мероприятия, включая приобретение бабочек, которые должны были выпорхнуть в момент вручения кольца для помолвки.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[«ПУТЕВОДИТЕЛИ ПО ГОРОДАМ» ОТ VERTU]]></title>
+				<name><![CDATA[«ПУТЕВОДИТЕЛИ ПО ГОРОДАМ» ОТ VERTU]]></name>
+				<image path="lifestyle_cityBrief.jpg"  />
+				<copy><![CDATA[Канал Vertu «Путеводители по городам» – это серия несвязанных между собой путеводителей, информация для которых тщательно проверяется и автоматически отображается на экране телефона Vertu, как только Вы приезжаете в определенный город. Вы получите ценные советы и рекомендации по выбору ресторанов, баров и мест, обязательных к посещению. Свыше 140 городов мира освещаются в рамках этой эксклюзивной услуги.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1" scale="false">
+				<title><![CDATA[VERTU SELECT]]></title>
+				<name><![CDATA[VERTU SELECT]]></name>
+				<image path="vertu_select.jpg"  />
+				<copy><![CDATA[Статьи, предоставляемые в рамках услуги Vertu Select стараниями избранных экспертов и организаций, отличаются оригинальностью: они вдохновляют, информируют и увлекают, при этом учитывается Ваше текущее местонахождение, а также круг предпочтений и интересов.<br><br>Заголовки статей Vertu Select, выходящих из-под пера признанных обозревателей и авторов, поступают на экран телефона Constellation Quest посредством RSS-ленты.]]></copy>
+				<category><![CDATA[category1]]></category>
+			</module>
+			
+		</categorie>
+
+		<categorie id="category2">			
+			<module showpopup="true" type="copy2">
+				<title><![CDATA[ХАРАКТЕРИСТИКИ]]></title>
+				<name><![CDATA[ХАРАКТЕРИСТИКИ]]></name>
+				<image path="performance_lp.jpg"  />
+				<copy><![CDATA[Constellation Quest, созданный для настоящего гражданина мира, представляет собой самый функциональный телефон Vertu на сегодняшний день.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="false" type="video" controlls="true" repeat="true" time="0">
+				<title><![CDATA[ЭКСКЛЮЗИВНЫЕ РИНГТОНЫ]]></title>
+				<name><![CDATA[ЭКСКЛЮЗИВНЫЕ РИНГТОНЫ]]></name>
+				<video path="exclusive_ringtones_VERTU_Quest_ru.flv" />
+				<copy><![CDATA[Вся музыка, которую играет телефон<br>Constellation Quest, начиная от рингтонов и заканчивая оповещающими сигналами, написана Бенджамином Уоллфишем и исполнена оркестром под его руководством. Этот молодой музыкант заслуженно получил международное признание и как композитор, и как дирижер. На телефоне проигрывается запись музыки в исполнении Лондонского симфонического оркестра.<br><br>Специально для телефона Constellation Quest Бенджамин Уоллфиш написал классическое концертное произведение в современном стиле под названием Constellation Dances, отдельные части которого впоследствии и превратились в рингтоны и оповещающие сигналы.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0" >
+				<title><![CDATA[ТОЧНОЕ ВРЕМЯ И ВРЕМЯ В<br>ДВУХ ЧАСОВЫХ ПОЯСАХ]]></title>
+				<name><![CDATA[ТОЧНОЕ ВРЕМЯ И ВРЕМЯ В ДВУХ ЧАСОВЫХ ПОЯСАХ]]></name>
+				<video path="accurate_dual_time_zone_VERTU_Quest.flv" onfinish="clock_animation.swf"/>
+				<copy><![CDATA[Во время заграничных поездок часы в основном режиме экрана автоматически переходят на отображение времени Вашего текущего местонахождения, одновременно показывая время в городе Вашего постоянного проживания. Работа этой функции предполагает обязательное наличие соединения для отправки данных.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[САПФИРОВЫЕ КНОПКИ]]></title>
+				<name><![CDATA[САПФИРОВЫЕ КНОПКИ]]></name>
+				<video path="sapphire_keys_VERTU_Quest.flv" />
+				<copy><![CDATA[Предметом особой гордости компании Vertu всегда являлась клавиатура телефонов с ее уникальным исполнением и тактильными ощущениями. В этом отношении модель Constellation Quest не является исключением. Каждая кнопка, выполненная из поликристалла сапфира, шлифуется и обтачивается до нужной формы с использованием алмазного порошка и оливкового масла. Такой процесс обработки одной кнопки может занять до 25 рабочих часов. Далее кнопки приобретают прозрачное декоративное покрытие, которое несколько раз наносится через шелковый трафарет. Такое покрытие идеально повторяет структуру кожи и керамики, что особенно эффектно смотрится при подсветке, проходящей сквозь высверленные лучом лазера отверстия диаметром 0,25 мм. ]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+			<module showpopup="true" type="video" controlls="false" repeat="false" time="0">
+				<title><![CDATA[ЭКРАН ИЗ САПФИРОВОГО СТЕКЛА]]></title>
+				<name><![CDATA[ЭКРАН ИЗ САПФИРОВОГО СТЕКЛА]]></name>
+				<video path="sapphire_screen_VERTU_Quest.flv" />
+				<copy><![CDATA[Главным условием для создания столь уникального экрана является использование самого чистого и прозрачного поликристалла сапфира, который выращивается специально для нужд компании Vertu. Каждый экран подвергается особому процессу обработки и полировки, который в итоге позволяет добиться кристальной прозрачности и осуществляется руками только самых квалифицированных мастеров и полировщиков.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU.ME]]></title>
+				<name><![CDATA[VERTU.ME]]></name>
+				<image path="vertu_me.jpg"  />
+				<copy><![CDATA[Компания Vertu считает своим долгом обеспечить мгновенный доступ к необходимой Вам информации. Учетная запись Vertu.Me функционирует в рамках системы управления личной информацией и позволяет в автоматическом режиме осуществлять синхронизацию персональных данных с защищенным сервером Vertu. Поэтому вне зависимости от того, осуществляете ли Вы доступ к Вашей информации через телефон, компьютер или Интернет, будьте уверены – Вы всегда получите обновленные данные по защищенному соединению.<br><br>Даже в случае потери телефона Вы можете быть уверены в сохранности информации, поскольку она может быть легко восстановлена.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			<module showpopup="true" type="copy1">
+				<title><![CDATA[VERTU REMOTE ASSIST]]></title>
+				<name><![CDATA[VERTU REMOTE ASSIST]]></name>
+				<image path="vertu_remote_assist.jpg"  />
+				<copy><![CDATA[Компания Vertu также предоставляет ежедневную круглосуточную поддержку через программу удаленного администрирования и управления Vertu Remote Assist. Если Вам требуется помощь технического характера, одним нажатием специальной кнопки вызова службы «Vertu Консьерж» Вы сможете связаться со специалистами технической поддержки, которые в удаленном режиме подключатся к Вашему телефону и решат проблему.<br><br>В какой бы точке мира Вы ни находились, будьте уверены – компания Vertu всегда протянет Вам руку помощи.]]></copy>
+				<category><![CDATA[category2]]></category>
+			</module>
+			
+			
+		</categorie>
+		
+	</categories>
+	
+	<!-- category thumbs -->
+	<categorietypes>
+		<category id="category0">
+			<title><![CDATA[ДИЗАЙН]]></title>
+			<url><![CDATA[ДИЗАЙН]]></url>
+		</category>
+		<category id="category1">
+			<title><![CDATA[СТИЛЬ ЖИЗНИ]]></title>
+			<url><![CDATA[СТИЛЬ ЖИЗНИ]]></url>
+		</category>
+		<category id="category2">
+			<title><![CDATA[ХАРАКТЕРИСТИКИ]]></title>
+			<url><![CDATA[ХАРАКТЕРИСТИКИ]]></url>
+		</category>
+	</categorietypes>
+	
+	<!-- footer -->
+	<footer>
+		<!-- EXPERIENCE MENU -->
+		<item id="bg3" type="ExMenuType">
+			<title><![CDATA[bg3]]></title>
+			<url></url>
+		</item>
+		<item id="design" x="243" y="67" type="ExMenuType">
+			<title><![CDATA[ДИЗАЙН]]></title>
+			<url></url>
+		</item>
+		<item id="lifestyle" x="405" y="67" type="ExMenuType">
+			<title><![CDATA[СТИЛЬ ЖИЗНИ]]></title>
+			<url></url>
+		</item>
+		<item id="performance" x="567" y="67" type="ExMenuType">
+			<title><![CDATA[ХАРАКТЕРИСТИКИ]]></title>
+			<url></url>
+		</item>
+		<!-- EXPERIENCE MENU -->
+		
+		<!-- COLLECTION MENU -->
+		<item id="bg2" type="SpMenuType">
+			<title><![CDATA[bg2]]></title>
+			<url></url>
+		</item>
+		<item id="range" x="324" y="67" type="SpMenuType">
+			<title><![CDATA[МОДЕЛИ]]></title>
+			<url></url>
+		</item>
+		<item id="specifications" x="486 " y="67" type="SpMenuType">
+			<title><![CDATA[СПЕЦИФИКАЦИИ]]></title>
+			<url></url>
+		</item>
+		<!-- COLLECTION MENU -->
+		
+		<!-- MAIN MENU -->
+		<item id="bg" type="bg">
+			<title><![CDATA[bg]]></title>
+			<url></url>
+		</item>
+		<item id="experiencethephone" x="162 " y="0">
+			<title><![CDATA[ОТКРЫТЬ ДЛЯ СЕБЯ]]></title>
+			<url></url>
+		</item>
+		<item id="collection" x="324" y="0">
+			<title><![CDATA[КОЛЛЕКЦИЯ]]></title>
+			<url></url>
+		</item>
+		<item id="boutiques" x="486" y="0" >
+			<title><![CDATA[БУТИКИ]]></title>
+			<url></url>
+		</item>
+		<item id="register" x="648" y="0">
+			<title><![CDATA[РАССЫЛКА]]></title>
+			<url></url>
+		</item>
+		<item id="changelanguage"  type="PopUpComboBox" x="810" y="0">
+			<title><![CDATA[РУССКИЙ]]></title>
+		
+			<option lang="ar" font="EngraversGothic BT"><![CDATA[ar]]></option>
+			<option lang="zh" font="EngraversGothic BT"><![CDATA[简体中文]]></option>
+			<option lang="ru" font="EngraversGothic BT"><![CDATA[Русский]]></option>
+			<option lang="it" font="EngraversGothic BT"><![CDATA[Italian]]></option>
+			<option lang="de" font="EngraversGothic BT"><![CDATA[Deutsch]]></option>
+			<option lang="fr" font="EngraversGothic BT"><![CDATA[Français]]></option>
+			<option lang="en" font="EngraversGothic BT"><![CDATA[English]]></option>
+		</item>
+		<!-- MAIN MENU -->
+		
+		<!-- FOOTER MENU -->
+		<item id="vertu_dot_com" x="839" y="45" type="LowMenuType">
+			<title><![CDATA[VERTU.COM]]></title>
+			<url></url>
+		</item>
+		<!-- FOOTER MENU -->
+		
+		
+	</footer> 
+	<buttons>
+		<close><![CDATA[ЗАКРЫТЬ]]></close>
+		<more><![CDATA[ЧИТАТЬ ДАЛЕЕ]]></more>
+		<hide><![CDATA[СКРЫТЬ]]></hide>
+	</buttons>
+	
+</content>

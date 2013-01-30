@@ -1,0 +1,41 @@
+
+General:
+- there could be an intro animation / video before the globe.
+- The Globe is the "Experience the phone" section, this is also the home page
+- make html fullscreen, footer snaps to bottom at all time. 
+
+Video Module:
+- Need to add cuepoint / caption support
+- Cuepoint data can be text/ images.
+- Videos needs to play "Fullscreen"
+
+Globe:
+- stop planes callapsing into the phone
+- stop planes from flipping
+- change planes/thumbnails to 16:9 ratio
+- take out flip effect
+- Need history state on planes
+- mouse active globe spin needs to accelerate faster
+- mouse active globe mouseX coordinate needs to change according to fullscreen resize
+- mouse active globe only needs to work on mouseX horizontal direction
+- add xml settings for planes x,y,z etc... for designing and testing purpose
+- add "experience site" rollover shimmer effect to planes
+
+
+Where to buy:
+- rollover drop down bug
+- add arrow keys navigation on dropdowns, plus mousewheel support
+- deeplinked where to buy should open with the 2D worldmap already opened. (skip the 3D transition)
+
+
+
+
+
+
+
+
+Hand over note:
+
+- Mateusz, in ModuleController.as there is a event handler called "stageResizedHandler" this is where
+I am resizing the module at the moment. But as discussed this will need to be applied for all objects 
+apart from controls etc.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="ArialUnicodeMS" output="assets\fonts" format="2">
+	<font id="ArialUnicodeMS" family="Arial Unicode MS" style="0" cs="17,1,19,2,18,3,4,20,5,22" type="0" path=""/>
+</library>

@@ -1,0 +1,28 @@
+ja_fonts.swf Movie Report
+--------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1290    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2009-09-04T14:41:02+01:00</xmp:CreateDate> <xmp:MetadataDate>2010-08-18T13:36:37+01:00</xmp:MetadataDate> <xmp:ModifyDate>2010-08-18T13:36:37+01:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:9EE4539BBCAADF118DC6D1959EB37703</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:9EE4539BBCAADF118DC6D1959EB37703</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:880ABE1C5F99DE11A6D3FAF1B820388A</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:47E559F0BF9BDF11844DB693A6660EDB</stRef:instanceID> <stRef:documentID>xmp.did:47E559F0BF9BDF11844DB693A6660EDB</stRef:documentID> <stRef:originalDocumentID>xmp.did:880ABE1C5F99DE11A6D3FAF1B820388A</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        4439129        4439129    Scene 1 (AS 3.0 Classes Export Frame)
+      2              2        4439131    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                  1061
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+
+ActionScript Bytes    Location
+------------------    --------
+              1061    Scene 1:Frame 1
+
+
+
+
